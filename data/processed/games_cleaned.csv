@@ -1,0 +1,1201 @@
+GameID,Name,Platform,Year,Genre,Publisher,Global_Sales,Critic_Score,User_Score,Avg_Playtime_Hours,Price_USD,ESRB_Rating,Multiplayer,Sales_Category,Score_Gap,Decade
+G0001,Dark Quest,Mobile,2022,RPG,Square Enix,1.46,77,7.6,49,49.99,E,No,Medium (1-5M),0.1,2020
+G0002,Mega Worlds 1,PC,2023,Simulation,Sony Interactive,20.98,92,6.9,37,9.99,M,Yes,Blockbuster (15M+),2.3,2020
+G0003,Eternal Chronicles,Xbox,2023,Action,Take-Two,4.83,78,7.8,43,39.99,E,No,Medium (1-5M),0.0,2020
+G0004,Shadow Quest 1,PlayStation,2021,Shooter,Sony Interactive,2.72,64,6.9,74,59.99,E,Yes,Medium (1-5M),-0.5,2020
+G0005,Ancient Quest,Nintendo Switch,2025,Adventure,Microsoft,5.45,57,3.7,11,59.99,T,Yes,High (5-15M),2.0,2020
+G0006,Eternal Raid 3,PlayStation,2025,Shooter,Square Enix,10.44,81,9.7,51,69.99,T,Yes,High (5-15M),-1.6,2020
+G0007,Pixel Quest,PC,2020,RPG,Take-Two,0.69,57,5.9,13,49.99,T,No,Low (<1M),-0.2,2020
+G0008,Super Raid,Mobile,2020,Racing,Square Enix,1.42,72,8.1,11,49.99,T,Yes,Medium (1-5M),-0.9,2020
+G0009,Epic Strike,PlayStation,2025,Shooter,Activision,9.23,92,8.9,73,39.99,E10+,Yes,High (5-15M),0.3,2020
+G0010,Dragon Force 1,PC,2018,Action,Electronic Arts,5.25,50,4.5,31,29.99,M,Yes,High (5-15M),0.5,2010
+G0011,Space Fury,PC,2017,Action,Valve,13.0,77,7.0,35,59.99,T,No,High (5-15M),0.7,2010
+G0012,Shadow Tactics,PC,2012,Fighting,Electronic Arts,2.37,56,5.5,29,9.99,T,Yes,Medium (1-5M),0.1,2010
+G0013,Battle Chronicles,PC,2023,Adventure,Square Enix,3.52,78,9.0,27,29.99,M,No,Medium (1-5M),-1.2,2020
+G0014,Iron Fury,PlayStation,2012,Adventure,Sony Interactive,4.43,98,9.3,30,14.99,T,No,Medium (1-5M),0.5,2010
+G0015,Legend Warriors,Xbox,2022,Adventure,Square Enix,9.11,63,7.1,9,49.99,T,Yes,High (5-15M),-0.8,2020
+G0016,Neon Chronicles,PlayStation,2017,Simulation,Bandai Namco,2.62,84,8.7,12,49.99,E10+,Yes,Medium (1-5M),-0.3,2010
+G0017,Dark Souls 3,PlayStation,2018,Puzzle,Ubisoft,7.05,85,7.5,39,39.99,T,Yes,High (5-15M),1.0,2010
+G0018,Space Horizon,Mobile,2015,Adventure,Valve,3.56,80,7.6,27,19.99,T,No,Medium (1-5M),0.4,2010
+G0019,Ultra Arena,PlayStation,2012,Simulation,Square Enix,8.51,87,6.9,55,59.99,M,Yes,High (5-15M),1.8,2010
+G0020,Legend Horizon,PlayStation,2014,RPG,Bandai Namco,12.1,62,5.3,11,49.99,T,No,High (5-15M),0.9,2010
+G0021,Mega Horizon,PlayStation,2023,Racing,Epic Games,1.06,64,6.8,20,49.99,M,No,Medium (1-5M),-0.4,2020
+G0022,Pixel Dawn 2,PlayStation,2016,Shooter,Valve,1.87,85,8.2,22,14.99,M,No,Medium (1-5M),0.3,2010
+G0023,Shadow Worlds,PlayStation,2020,Fighting,Sony Interactive,4.16,82,7.5,42,29.99,M,Yes,Medium (1-5M),0.7,2020
+G0024,Dragon Souls 1,PlayStation,2017,Adventure,Sega,8.35,61,4.8,14,19.99,E10+,No,High (5-15M),1.3,2010
+G0025,Storm Odyssey 2,Xbox,2018,Action,Bandai Namco,2.07,53,5.5,8,14.99,E,No,Medium (1-5M),-0.2,2010
+G0026,Battle Tactics 1,PC,2025,Adventure,Valve,0.75,98,8.5,56,14.99,M,No,Low (<1M),1.3,2020
+G0027,Mega Dawn,PC,2021,Simulation,Microsoft,6.2,51,5.6,17,19.99,M,No,High (5-15M),-0.5,2020
+G0028,Storm Raid,PC,2025,Simulation,Activision,18.82,83,8.0,33,29.99,M,Yes,Blockbuster (15M+),0.3,2020
+G0029,Battle Fury 1,PC,2016,Sports,Sega,1.56,93,8.7,19,19.99,T,No,Medium (1-5M),0.6,2010
+G0030,Ancient Rivals 1,PC,2024,Racing,Take-Two,1.77,97,8.5,28,14.99,E10+,Yes,Medium (1-5M),1.2,2020
+G0031,Dark Legacy,PC,2025,Action,Nintendo,11.78,81,7.4,5,49.99,E,No,High (5-15M),0.7,2020
+G0032,Final Chronicles,PC,2021,Fighting,Sega,4.21,83,9.5,32,39.99,M,No,Medium (1-5M),-1.2,2020
+G0033,Iron Tactics,Xbox,2015,Simulation,Square Enix,7.57,95,9.4,20,49.99,T,No,High (5-15M),0.1,2010
+G0034,Eternal Quest,PC,2024,Racing,Bandai Namco,2.31,58,5.6,18,29.99,T,Yes,Medium (1-5M),0.2,2020
+G0035,Dark Dawn,PlayStation,2014,Racing,Capcom,35.5,73,7.4,21,9.99,E10+,No,Blockbuster (15M+),-0.1,2010
+G0036,Lost Quest,PlayStation,2019,Shooter,Activision,5.27,75,8.2,16,29.99,M,No,High (5-15M),-0.7,2010
+G0037,Pixel Age,Nintendo Switch,2020,Sports,Activision,16.05,74,7.6,19,29.99,E,No,Blockbuster (15M+),-0.2,2020
+G0038,Ancient Force,PC,2025,Action,Nintendo,44.75,86,6.9,17,29.99,T,No,Blockbuster (15M+),1.7,2020
+G0039,Neon Age,Nintendo Switch,2024,Strategy,Sony Interactive,1.77,73,5.3,84,59.99,E10+,Yes,Medium (1-5M),2.0,2020
+G0040,Epic Fury,Nintendo Switch,2023,Action,Electronic Arts,3.08,76,7.7,45,14.99,E,No,Medium (1-5M),-0.1,2020
+G0041,Eternal Age,PlayStation,2015,RPG,Electronic Arts,2.6,90,7.1,73,59.99,E,No,Medium (1-5M),1.9,2010
+G0042,Iron Odyssey,PlayStation,2021,Action,Nintendo,25.12,83,8.4,26,29.99,E10+,No,Blockbuster (15M+),-0.1,2020
+G0043,Dark Fury,Mobile,2023,Adventure,Bandai Namco,4.12,85,8.6,25,39.99,T,No,Medium (1-5M),-0.1,2020
+G0044,Neon Worlds 3,Xbox,2017,Sports,Activision,2.94,85,7.0,42,19.99,T,Yes,Medium (1-5M),1.5,2010
+G0045,Legend Chronicles,PC,2020,Shooter,Nintendo,0.67,78,8.0,48,14.99,M,No,Low (<1M),-0.2,2020
+G0046,Legend Dawn,Xbox,2020,Puzzle,Ubisoft,0.98,76,8.4,17,39.99,M,Yes,Low (<1M),-0.8,2020
+G0047,Epic Rivals,PlayStation,2022,Strategy,Epic Games,2.22,75,7.5,93,49.99,M,No,Medium (1-5M),0.0,2020
+G0048,Super Arena,Nintendo Switch,2014,Racing,Electronic Arts,1.47,66,5.6,12,19.99,M,No,Medium (1-5M),1.0,2010
+G0049,Iron Raid,PC,2018,Action,Sega,0.1,70,6.3,45,49.99,M,Yes,Low (<1M),0.7,2010
+G0050,Eternal Strike,Xbox,2018,Strategy,Sony Interactive,17.08,84,7.8,19,9.99,E10+,No,Blockbuster (15M+),0.6,2010
+G0051,Battle Fury,PlayStation,2013,RPG,Nintendo,0.58,97,9.2,35,39.99,T,No,Low (<1M),0.5,2010
+G0052,Ancient Tactics 1,Nintendo Switch,2012,Sports,Valve,0.62,88,8.8,9,29.99,T,No,Low (<1M),0.0,2010
+G0053,Legend Odyssey 3,PlayStation,2019,Shooter,Nintendo,3.07,61,5.7,47,49.99,E,Yes,Medium (1-5M),0.4,2010
+G0054,Mega Worlds 3,PC,2023,Action,Sega,4.85,61,5.4,10,39.99,T,Yes,Medium (1-5M),0.7,2020
+G0055,Shadow Worlds 1,Xbox,2019,Strategy,Epic Games,8.47,66,5.7,36,19.99,E10+,No,High (5-15M),0.9,2010
+G0056,Dragon Chronicles,PlayStation,2019,Shooter,Ubisoft,13.76,62,5.9,48,39.99,E,Yes,High (5-15M),0.3,2010
+G0057,Pixel Rivals 1,PC,2020,Shooter,Take-Two,4.45,73,6.2,15,29.99,E,No,Medium (1-5M),1.1,2020
+G0058,Storm Rivals 2,Xbox,2014,Shooter,Capcom,1.65,73,8.9,49,49.99,E10+,Yes,Medium (1-5M),-1.6,2010
+G0059,Final Strike 3,PlayStation,2021,RPG,Ubisoft,6.13,54,5.5,21,9.99,E10+,Yes,High (5-15M),-0.1,2020
+G0060,Final Fury,Nintendo Switch,2025,Sports,Square Enix,0.24,82,8.2,23,59.99,M,Yes,Low (<1M),0.0,2020
+G0061,Lost Warriors,Xbox,2020,Adventure,Ubisoft,36.14,93,9.7,14,19.99,E10+,Yes,Blockbuster (15M+),-0.4,2020
+G0062,Dark Warriors,PC,2012,Sports,Sega,2.89,75,7.8,24,29.99,T,Yes,Medium (1-5M),-0.3,2010
+G0063,Eternal Tactics 1,PlayStation,2021,Sports,Valve,9.51,61,7.7,16,49.99,E,No,High (5-15M),-1.6,2020
+G0064,Pixel Tactics 1,PlayStation,2016,Strategy,Square Enix,8.65,71,7.3,34,49.99,M,No,High (5-15M),-0.2,2010
+G0065,Lost Dawn 3,PC,2025,Adventure,Sega,3.11,81,9.2,43,39.99,T,No,Medium (1-5M),-1.1,2020
+G0066,Rising Strike,PlayStation,2012,Shooter,Capcom,1.42,54,4.5,25,19.99,T,Yes,Medium (1-5M),0.9,2010
+G0067,Shadow Horizon,Xbox,2021,RPG,Nintendo,8.69,88,9.3,25,49.99,E,Yes,High (5-15M),-0.5,2020
+G0068,Battle Arena,Xbox,2025,Adventure,Nintendo,20.1,78,7.2,43,49.99,E,No,Blockbuster (15M+),0.6,2020
+G0069,Lost Empire,PlayStation,2024,Action,Square Enix,3.88,67,7.2,48,49.99,T,No,Medium (1-5M),-0.5,2020
+G0070,Eternal Rivals 2,PlayStation,2022,Adventure,Sega,1.31,65,4.9,16,39.99,M,Yes,Medium (1-5M),1.6,2020
+G0071,Ultra Warriors,PC,2019,Action,Valve,1.81,76,6.8,61,9.99,E,Yes,Medium (1-5M),0.8,2010
+G0072,Eternal Warriors,Mobile,2012,Simulation,Sony Interactive,3.53,87,7.0,71,9.99,E10+,No,Medium (1-5M),1.7,2010
+G0073,Shadow Warriors,PlayStation,2015,Action,Capcom,0.97,40,3.8,42,9.99,M,Yes,Low (<1M),0.2,2010
+G0074,Ancient Age 3,PC,2016,Shooter,Square Enix,14.89,65,5.5,14,19.99,T,No,High (5-15M),1.0,2010
+G0075,Legend Horizon 1,PlayStation,2017,Sports,Valve,0.95,75,6.4,11,29.99,E10+,No,Low (<1M),1.1,2010
+G0076,Mega Souls 3,PlayStation,2012,RPG,Bandai Namco,17.82,69,5.3,40,49.99,T,No,Blockbuster (15M+),1.6,2010
+G0077,Mega Warriors,PlayStation,2014,Sports,Nintendo,5.71,70,6.6,35,19.99,T,Yes,High (5-15M),0.4,2010
+G0078,Final Age,PC,2013,Action,Take-Two,4.3,74,6.5,14,49.99,E,Yes,Medium (1-5M),0.9,2010
+G0079,Pixel Strike,PC,2012,Strategy,Valve,2.48,71,7.5,12,59.99,M,Yes,Medium (1-5M),-0.4,2010
+G0080,Dragon Worlds 1,PC,2018,Racing,Ubisoft,5.23,58,6.2,21,49.99,E10+,Yes,High (5-15M),-0.4,2010
+G0081,Neon Tactics,Xbox,2023,RPG,Nintendo,1.21,95,7.5,80,19.99,M,No,Medium (1-5M),2.0,2020
+G0082,Legend Quest,Nintendo Switch,2019,Action,Epic Games,4.89,75,6.9,23,19.99,T,No,Medium (1-5M),0.6,2010
+G0083,Storm Force 1,PC,2022,Adventure,Nintendo,14.13,87,8.5,61,49.99,T,Yes,High (5-15M),0.2,2020
+G0084,Ancient Arena 2,PlayStation,2023,RPG,Take-Two,2.31,63,5.3,44,49.99,T,No,Medium (1-5M),1.0,2020
+G0085,Legend Worlds,PlayStation,2025,Simulation,Sega,0.62,62,6.0,20,9.99,M,Yes,Low (<1M),0.2,2020
+G0086,Super Tactics,Xbox,2019,Fighting,Activision,2.89,80,6.3,22,39.99,E,No,Medium (1-5M),1.7,2010
+G0087,Neon Age 3,Mobile,2022,Simulation,Ubisoft,2.25,98,8.5,9,29.99,T,No,Medium (1-5M),1.3,2020
+G0088,Neon Force,PC,2013,Sports,Sony Interactive,10.8,66,6.5,95,14.99,M,No,High (5-15M),0.1,2010
+G0089,Epic Arena 1,Nintendo Switch,2016,Shooter,Microsoft,4.51,74,7.3,41,49.99,E,No,Medium (1-5M),0.1,2010
+G0090,Eternal Legacy 3,Xbox,2012,Action,Take-Two,1.09,98,8.9,19,49.99,E,Yes,Medium (1-5M),0.9,2010
+G0091,Ultra Odyssey 3,Nintendo Switch,2025,Sports,Nintendo,2.29,84,7.0,34,14.99,E,No,Medium (1-5M),1.4,2020
+G0092,Shadow Chronicles,Xbox,2023,RPG,Take-Two,7.81,50,4.2,50,39.99,M,No,High (5-15M),0.8,2020
+G0093,Pixel Warriors 1,PC,2021,Adventure,Ubisoft,9.21,74,8.1,15,29.99,T,No,High (5-15M),-0.7,2020
+G0094,Pixel Horizon,Mobile,2021,Simulation,Capcom,5.24,48,3.0,19,59.99,T,No,High (5-15M),1.8,2020
+G0095,Eternal Raid,Mobile,2020,Adventure,Electronic Arts,1.34,70,7.2,8,69.99,M,No,Medium (1-5M),-0.2,2020
+G0096,Dark Chronicles,Mobile,2018,Fighting,Nintendo,2.82,66,5.9,37,59.99,E,Yes,Medium (1-5M),0.7,2010
+G0097,Epic Dawn 2,PC,2021,RPG,Activision,9.14,80,6.7,36,39.99,T,No,High (5-15M),1.3,2020
+G0098,Storm Dawn 1,PlayStation,2013,Adventure,Electronic Arts,6.06,69,6.0,14,39.99,T,No,High (5-15M),0.9,2010
+G0099,Shadow Empire,Nintendo Switch,2014,Action,Epic Games,7.85,87,7.7,26,29.99,E10+,Yes,High (5-15M),1.0,2010
+G0100,Shadow Fury 1,PlayStation,2017,Racing,Sony Interactive,8.91,61,3.0,13,39.99,M,Yes,High (5-15M),3.1,2010
+G0101,Final Legacy,PlayStation,2024,Racing,Electronic Arts,6.21,77,8.1,32,59.99,T,No,High (5-15M),-0.4,2020
+G0102,Super Raid 3,Xbox,2022,Racing,Microsoft,4.73,72,6.9,36,59.99,E,No,Medium (1-5M),0.3,2020
+G0103,Dragon Raid,Mobile,2013,Adventure,Nintendo,18.62,78,6.9,15,14.99,E10+,No,Blockbuster (15M+),0.9,2010
+G0104,Mega Arena 3,PlayStation,2019,Action,Bandai Namco,3.85,76,7.5,74,69.99,E10+,No,Medium (1-5M),0.1,2010
+G0105,Dark Souls,PC,2015,Fighting,Nintendo,2.23,76,8.2,11,9.99,T,Yes,Medium (1-5M),-0.6,2010
+G0106,Rising Worlds 2,PC,2013,Shooter,Bandai Namco,43.82,65,4.8,64,9.99,M,Yes,Blockbuster (15M+),1.7,2010
+G0107,Space Empire,PC,2018,Simulation,Sega,3.23,59,5.7,55,49.99,E10+,No,Medium (1-5M),0.2,2010
+G0108,Battle Odyssey 1,PC,2022,Strategy,Epic Games,0.55,67,7.3,12,49.99,E10+,No,Low (<1M),-0.6,2020
+G0109,Pixel Fury,PlayStation,2023,Racing,Epic Games,6.96,79,8.1,33,49.99,T,Yes,High (5-15M),-0.2,2020
+G0110,Battle Dawn,Mobile,2014,Action,Nintendo,3.91,91,8.3,86,19.99,T,Yes,Medium (1-5M),0.8,2010
+G0111,Cyber Force,PC,2019,Shooter,Square Enix,2.91,51,4.4,4,39.99,E10+,No,Medium (1-5M),0.7,2010
+G0112,Pixel Warriors 2,Nintendo Switch,2019,Simulation,Epic Games,1.15,73,7.0,10,39.99,T,No,Medium (1-5M),0.3,2010
+G0113,Space Odyssey,PlayStation,2013,Action,Electronic Arts,4.11,65,5.4,20,39.99,T,No,Medium (1-5M),1.1,2010
+G0114,Storm Strike 3,PC,2012,Adventure,Square Enix,17.02,85,8.2,15,49.99,M,No,Blockbuster (15M+),0.3,2010
+G0115,Final Quest,PlayStation,2022,Simulation,Take-Two,9.77,97,9.8,33,39.99,E,Yes,High (5-15M),-0.1,2020
+G0116,Legend Odyssey,Xbox,2023,Sports,Take-Two,2.75,98,8.3,51,39.99,T,No,Medium (1-5M),1.5,2020
+G0117,Dark Empire,PC,2023,Sports,Ubisoft,7.33,50,4.0,24,29.99,E10+,Yes,High (5-15M),1.0,2020
+G0118,Final Odyssey,Nintendo Switch,2012,Adventure,Sony Interactive,9.26,84,6.6,13,29.99,M,Yes,High (5-15M),1.8,2010
+G0119,Neon Dawn 2,Xbox,2015,Simulation,Sega,2.96,95,7.9,16,39.99,M,Yes,Medium (1-5M),1.6,2010
+G0120,Battle Horizon,Xbox,2012,Shooter,Activision,2.56,90,9.8,59,29.99,T,Yes,Medium (1-5M),-0.8,2010
+G0121,Neon Souls,PlayStation,2017,Action,Valve,31.71,54,6.5,45,14.99,T,Yes,Blockbuster (15M+),-1.1,2010
+G0122,Cyber Empire 2,Nintendo Switch,2016,RPG,Electronic Arts,2.58,78,7.5,34,19.99,E,Yes,Medium (1-5M),0.3,2010
+G0123,Storm Odyssey,PlayStation,2025,Sports,Capcom,0.86,68,7.7,44,14.99,E,Yes,Low (<1M),-0.9,2020
+G0124,Lost Strike,Xbox,2016,Strategy,Electronic Arts,5.05,79,8.4,28,19.99,E,Yes,High (5-15M),-0.5,2010
+G0125,Super Chronicles 3,PlayStation,2015,Action,Sega,12.08,73,7.1,6,9.99,E,No,High (5-15M),0.2,2010
+G0126,Iron Odyssey 1,PC,2013,Puzzle,Capcom,10.01,78,8.3,3,39.99,T,Yes,High (5-15M),-0.5,2010
+G0127,Neon Worlds,PC,2013,Action,Sega,2.12,80,8.2,13,14.99,E10+,No,Medium (1-5M),-0.2,2010
+G0128,Epic Quest 2,Xbox,2018,Adventure,Sega,2.96,73,7.5,17,59.99,M,Yes,Medium (1-5M),-0.2,2010
+G0129,Iron Chronicles,Mobile,2012,Strategy,Activision,8.36,95,8.4,18,39.99,E10+,No,High (5-15M),1.1,2010
+G0130,Storm Strike,Nintendo Switch,2016,Puzzle,Bandai Namco,1.71,70,7.7,39,59.99,E10+,No,Medium (1-5M),-0.7,2010
+G0131,Battle Rivals,PC,2024,Simulation,Epic Games,0.83,63,4.9,55,49.99,T,No,Low (<1M),1.4,2020
+G0132,Epic Quest,PlayStation,2012,RPG,Electronic Arts,0.51,95,9.2,20,14.99,T,No,Low (<1M),0.3,2010
+G0133,Dark Raid 3,PlayStation,2019,Sports,Ubisoft,2.52,73,6.1,8,29.99,T,No,Medium (1-5M),1.2,2010
+G0134,Dark Tactics 2,Nintendo Switch,2017,Shooter,Ubisoft,5.26,95,9.0,59,59.99,E,No,High (5-15M),0.5,2010
+G0135,Ancient Dawn,PlayStation,2015,Racing,Sony Interactive,0.89,72,7.2,11,39.99,T,No,Low (<1M),0.0,2010
+G0136,Lost Age,Xbox,2021,Shooter,Nintendo,2.26,92,8.1,25,59.99,M,Yes,Medium (1-5M),1.1,2020
+G0137,Eternal Tactics,Nintendo Switch,2024,RPG,Sega,4.24,83,8.4,4,14.99,E,No,Medium (1-5M),-0.1,2020
+G0138,Rising Tactics 1,Xbox,2021,Sports,Capcom,1.19,79,8.2,20,49.99,T,Yes,Medium (1-5M),-0.3,2020
+G0139,Mega Arena,Xbox,2015,RPG,Valve,13.38,80,7.2,33,29.99,E,Yes,High (5-15M),0.8,2010
+G0140,Neon Worlds 2,PlayStation,2016,Simulation,Electronic Arts,2.27,62,5.3,15,49.99,E10+,No,Medium (1-5M),0.9,2010
+G0141,Eternal Chronicles 1,PC,2014,Action,Take-Two,1.96,93,9.8,16,49.99,M,Yes,Medium (1-5M),-0.5,2010
+G0142,Battle Legacy,Xbox,2021,Action,Take-Two,2.18,84,9.0,81,29.99,E10+,Yes,Medium (1-5M),-0.6,2020
+G0143,Legend Raid,PlayStation,2023,Shooter,Ubisoft,3.5,76,6.2,43,39.99,T,Yes,Medium (1-5M),1.4,2020
+G0144,Ultra Raid,PC,2013,Sports,Take-Two,0.7,58,5.5,26,29.99,T,Yes,Low (<1M),0.3,2010
+G0145,Storm Quest,Xbox,2020,Puzzle,Take-Two,1.4,74,8.4,19,29.99,T,No,Medium (1-5M),-1.0,2020
+G0146,Storm Souls,PC,2023,Fighting,Activision,4.55,83,8.1,57,39.99,E,No,Medium (1-5M),0.2,2020
+G0147,Final Dawn,Nintendo Switch,2017,Action,Nintendo,1.33,63,5.4,20,59.99,T,Yes,Medium (1-5M),0.9,2010
+G0148,Eternal Worlds,PlayStation,2015,RPG,Ubisoft,13.54,74,7.3,24,59.99,E10+,No,High (5-15M),0.1,2010
+G0149,Pixel Raid,Nintendo Switch,2014,Action,Square Enix,30.39,77,7.1,17,49.99,E10+,Yes,Blockbuster (15M+),0.6,2010
+G0150,Battle Odyssey,PC,2025,Action,Nintendo,11.95,75,6.6,154,29.99,T,Yes,High (5-15M),0.9,2020
+G0151,Storm Quest 2,Nintendo Switch,2015,Fighting,Activision,1.38,78,8.3,2,19.99,E,No,Medium (1-5M),-0.5,2010
+G0152,Epic Tactics 2,Xbox,2025,Action,Nintendo,1.77,72,5.9,37,39.99,T,Yes,Medium (1-5M),1.3,2020
+G0153,Battle Odyssey 2,Nintendo Switch,2021,Action,Capcom,5.85,69,6.1,19,49.99,E,No,High (5-15M),0.8,2020
+G0154,Dragon Souls 2,Nintendo Switch,2018,Puzzle,Valve,9.44,56,3.3,47,14.99,M,Yes,High (5-15M),2.3,2010
+G0155,Pixel Chronicles,PlayStation,2023,Adventure,Microsoft,8.66,83,7.5,3,9.99,E10+,No,High (5-15M),0.8,2020
+G0156,Space Worlds,PlayStation,2012,Action,Bandai Namco,5.31,80,7.8,12,39.99,M,Yes,High (5-15M),0.2,2010
+G0157,Shadow Quest,PC,2015,Sports,Valve,12.13,80,8.5,30,29.99,M,Yes,High (5-15M),-0.5,2010
+G0158,Ultra Quest,Xbox,2020,Action,Electronic Arts,7.1,71,7.4,14,49.99,T,Yes,High (5-15M),-0.3,2020
+G0159,Mega Legacy,PC,2012,Sports,Valve,11.1,72,6.4,23,9.99,T,No,High (5-15M),0.8,2010
+G0160,Dark Strike,PC,2012,Simulation,Sony Interactive,0.25,76,7.5,24,69.99,M,No,Low (<1M),0.1,2010
+G0161,Pixel Fury 3,PlayStation,2016,RPG,Microsoft,2.28,84,8.6,61,29.99,E10+,Yes,Medium (1-5M),-0.2,2010
+G0162,Dark Horizon,Nintendo Switch,2020,Shooter,Capcom,2.61,74,8.3,86,49.99,M,No,Medium (1-5M),-0.9,2020
+G0163,Ultra Chronicles,PlayStation,2019,Action,Ubisoft,2.8,58,4.1,6,39.99,M,Yes,Medium (1-5M),1.7,2010
+G0164,Mega Force,PC,2025,Action,Electronic Arts,1.25,84,8.3,29,59.99,M,Yes,Medium (1-5M),0.1,2020
+G0165,Storm Warriors,PlayStation,2019,Strategy,Square Enix,1.0,76,7.2,19,49.99,E10+,No,Low (<1M),0.4,2010
+G0166,Final Fury 3,PC,2016,Racing,Nintendo,2.04,81,8.8,24,49.99,T,No,Medium (1-5M),-0.7,2010
+G0167,Dragon Quest,PC,2014,Sports,Take-Two,8.36,78,8.5,39,14.99,T,Yes,High (5-15M),-0.7,2010
+G0168,Rising Force,Xbox,2012,Adventure,Nintendo,2.64,63,5.5,37,39.99,T,No,Medium (1-5M),0.8,2010
+G0169,Space Tactics,PlayStation,2024,Adventure,Capcom,4.12,74,6.5,38,69.99,E10+,Yes,Medium (1-5M),0.9,2020
+G0170,Final Horizon,PC,2019,Action,Activision,31.73,69,6.8,47,29.99,E10+,No,Blockbuster (15M+),0.1,2010
+G0171,Pixel Dawn,Xbox,2015,Action,Valve,2.35,98,9.0,27,39.99,T,No,Medium (1-5M),0.8,2010
+G0172,Lost Raid,Xbox,2013,Shooter,Activision,10.16,67,5.7,24,9.99,E10+,No,High (5-15M),1.0,2010
+G0173,Storm Arena,Nintendo Switch,2014,Racing,Bandai Namco,2.06,63,5.3,22,19.99,T,No,Medium (1-5M),1.0,2010
+G0174,Mega Chronicles 2,Mobile,2024,Puzzle,Electronic Arts,29.6,61,5.5,29,29.99,M,Yes,Blockbuster (15M+),0.6,2020
+G0175,Mega Tactics,Xbox,2020,Shooter,Nintendo,1.05,59,5.2,42,39.99,E10+,No,Medium (1-5M),0.7,2020
+G0176,Super Rivals 2,PlayStation,2014,Adventure,Sony Interactive,2.77,78,7.3,64,39.99,E,Yes,Medium (1-5M),0.5,2010
+G0177,Dragon Arena,PlayStation,2012,Racing,Square Enix,11.17,83,8.3,11,14.99,M,No,High (5-15M),0.0,2010
+G0178,Pixel Dawn 1,PC,2023,Puzzle,Sega,1.43,63,6.3,21,19.99,E10+,No,Medium (1-5M),0.0,2020
+G0179,Rising Dawn,Nintendo Switch,2023,Sports,Capcom,2.14,73,7.1,11,29.99,E10+,No,Medium (1-5M),0.2,2020
+G0180,Rising Rivals,Xbox,2015,Action,Square Enix,9.35,75,7.1,16,19.99,T,No,High (5-15M),0.4,2010
+G0181,Cyber Chronicles 2,Xbox,2021,Adventure,Sony Interactive,0.88,98,9.6,31,29.99,E,Yes,Low (<1M),0.2,2020
+G0182,Mega Empire,PC,2018,Adventure,Microsoft,11.18,98,9.3,27,49.99,T,Yes,High (5-15M),0.5,2010
+G0183,Space Rivals,PlayStation,2016,Sports,Sony Interactive,2.53,98,9.8,11,39.99,E,No,Medium (1-5M),0.0,2010
+G0184,Space Raid,PlayStation,2014,Simulation,Electronic Arts,2.04,64,5.7,12,49.99,T,Yes,Medium (1-5M),0.7,2010
+G0185,Eternal Odyssey,Nintendo Switch,2023,Simulation,Epic Games,4.2,81,8.1,74,39.99,E,Yes,Medium (1-5M),0.0,2020
+G0186,Lost Arena,PlayStation,2014,RPG,Microsoft,2.23,48,3.8,21,29.99,E,Yes,Medium (1-5M),1.0,2010
+G0187,Dragon Force,PlayStation,2020,Action,Nintendo,2.2,60,4.8,35,59.99,T,Yes,Medium (1-5M),1.2,2020
+G0188,Super Strike 2,PC,2014,Shooter,Bandai Namco,3.55,79,7.2,17,59.99,T,Yes,Medium (1-5M),0.7,2010
+G0189,Dark Strike 2,Xbox,2017,Sports,Activision,4.1,76,7.7,24,29.99,M,No,Medium (1-5M),-0.1,2010
+G0190,Super Empire 3,PC,2017,Shooter,Sega,1.28,70,6.7,20,39.99,T,No,Medium (1-5M),0.3,2010
+G0191,Eternal Empire,Xbox,2024,Action,Valve,6.69,77,8.8,31,29.99,T,No,High (5-15M),-1.1,2020
+G0192,Epic Rivals 1,PlayStation,2013,Sports,Microsoft,2.4,85,8.6,13,49.99,E,Yes,Medium (1-5M),-0.1,2010
+G0193,Storm Empire,PlayStation,2013,Action,Sega,1.54,98,9.8,35,49.99,M,Yes,Medium (1-5M),0.0,2010
+G0194,Lost Odyssey 1,Xbox,2013,Action,Ubisoft,1.56,80,8.4,18,19.99,E10+,Yes,Medium (1-5M),-0.4,2010
+G0195,Battle Rivals 3,PlayStation,2015,Strategy,Nintendo,6.1,79,8.1,53,19.99,M,No,High (5-15M),-0.2,2010
+G0196,Shadow Legacy 3,PC,2019,Shooter,Microsoft,2.53,58,5.3,12,49.99,T,Yes,Medium (1-5M),0.5,2010
+G0197,Iron Worlds,PC,2017,Sports,Take-Two,5.6,65,6.9,34,69.99,T,No,High (5-15M),-0.4,2010
+G0198,Battle Tactics,PlayStation,2014,Shooter,Nintendo,7.84,66,5.6,26,19.99,E,No,High (5-15M),1.0,2010
+G0199,Neon Raid,Xbox,2014,RPG,Capcom,13.7,63,6.3,46,39.99,M,Yes,High (5-15M),0.0,2010
+G0200,Iron Warriors,PC,2012,Action,Valve,5.13,87,7.7,28,14.99,M,No,High (5-15M),1.0,2010
+G0201,Pixel Chronicles 1,Nintendo Switch,2012,Simulation,Square Enix,0.17,82,7.4,6,49.99,T,No,Low (<1M),0.8,2010
+G0202,Eternal Chronicles 2,Xbox,2014,Sports,Microsoft,20.17,82,8.0,7,14.99,E10+,No,Blockbuster (15M+),0.2,2010
+G0203,Lost Rivals 1,Mobile,2013,Racing,Epic Games,3.48,94,8.6,28,19.99,E10+,No,Medium (1-5M),0.8,2010
+G0204,Neon Empire,PC,2023,Action,Sega,1.16,73,5.8,41,19.99,T,Yes,Medium (1-5M),1.5,2020
+G0205,Lost Chronicles,PC,2022,Action,Nintendo,3.89,64,6.4,62,39.99,E10+,No,Medium (1-5M),0.0,2020
+G0206,Pixel Legacy 1,PC,2020,RPG,Electronic Arts,3.84,64,7.0,24,39.99,T,No,Medium (1-5M),-0.6,2020
+G0207,Cyber Chronicles 3,PC,2012,Action,Square Enix,0.65,54,5.3,35,39.99,E10+,No,Low (<1M),0.1,2010
+G0208,Pixel Warriors,Nintendo Switch,2019,Puzzle,Capcom,1.95,75,8.5,45,14.99,E10+,No,Medium (1-5M),-1.0,2010
+G0209,Super Rivals,PC,2023,RPG,Square Enix,4.73,74,6.9,15,59.99,T,No,Medium (1-5M),0.5,2020
+G0210,Lost Arena 3,Xbox,2021,RPG,Ubisoft,3.56,70,7.8,41,39.99,M,No,Medium (1-5M),-0.8,2020
+G0211,Final Rivals,Xbox,2023,Simulation,Activision,1.52,72,7.5,21,49.99,E10+,No,Medium (1-5M),-0.3,2020
+G0212,Rising Fury,PC,2016,Simulation,Microsoft,2.64,87,8.5,13,59.99,T,Yes,Medium (1-5M),0.2,2010
+G0213,Battle Age,PlayStation,2023,RPG,Capcom,0.84,65,4.7,55,39.99,T,No,Low (<1M),1.8,2020
+G0214,Cyber Dawn,PC,2016,RPG,Take-Two,1.64,68,6.5,21,49.99,E10+,Yes,Medium (1-5M),0.3,2010
+G0215,Shadow Strike,PC,2017,RPG,Sony Interactive,18.21,75,8.4,102,14.99,E,No,Blockbuster (15M+),-0.9,2010
+G0216,Iron Rivals,Mobile,2014,Adventure,Epic Games,0.48,56,4.6,17,39.99,E,No,Low (<1M),1.0,2010
+G0217,Shadow Strike 1,PlayStation,2014,RPG,Take-Two,6.2,73,6.3,26,39.99,E,Yes,High (5-15M),1.0,2010
+G0218,Rising Force 3,Nintendo Switch,2016,Puzzle,Sony Interactive,45.0,52,4.5,15,59.99,E10+,No,Blockbuster (15M+),0.7,2010
+G0219,Dark Tactics,PC,2016,Racing,Valve,7.34,67,5.4,27,39.99,M,Yes,High (5-15M),1.3,2010
+G0220,Battle Strike,PC,2024,Simulation,Electronic Arts,1.56,86,9.2,15,39.99,T,Yes,Medium (1-5M),-0.6,2020
+G0221,Ancient Legacy,Xbox,2017,Simulation,Activision,4.41,61,4.4,54,39.99,E,No,Medium (1-5M),1.7,2010
+G0222,Ancient Arena,PC,2019,Shooter,Nintendo,2.67,73,6.3,25,49.99,T,Yes,Medium (1-5M),1.0,2010
+G0223,Storm Rivals,PlayStation,2025,Sports,Square Enix,45.0,60,5.5,39,49.99,M,No,Blockbuster (15M+),0.5,2020
+G0224,Lost Dawn,Xbox,2015,Sports,Take-Two,11.97,71,6.7,49,39.99,T,No,High (5-15M),0.4,2010
+G0225,Dragon Dawn,PlayStation,2024,Action,Microsoft,17.68,87,8.1,14,29.99,M,Yes,Blockbuster (15M+),0.6,2020
+G0226,Ultra Worlds,Mobile,2014,Adventure,Activision,2.9,69,6.1,28,9.99,M,No,Medium (1-5M),0.8,2010
+G0227,Mega Raid 3,Nintendo Switch,2014,Simulation,Ubisoft,2.6,63,5.2,48,49.99,E,Yes,Medium (1-5M),1.1,2010
+G0228,Rising Souls,Xbox,2024,Shooter,Bandai Namco,2.26,78,7.1,38,39.99,E,No,Medium (1-5M),0.7,2020
+G0229,Epic Age,PC,2013,Racing,Take-Two,0.63,64,5.7,15,9.99,T,No,Low (<1M),0.7,2010
+G0230,Lost Force,PC,2024,Shooter,Sony Interactive,3.49,57,4.8,36,49.99,M,No,Medium (1-5M),0.9,2020
+G0231,Final Legacy 2,PlayStation,2015,Simulation,Ubisoft,10.08,62,6.3,34,39.99,T,Yes,High (5-15M),-0.1,2010
+G0232,Dragon Souls,PC,2018,Strategy,Ubisoft,5.28,62,5.4,24,19.99,T,Yes,High (5-15M),0.8,2010
+G0233,Dragon Rivals,PC,2016,Simulation,Valve,1.42,87,8.2,14,19.99,M,Yes,Medium (1-5M),0.5,2010
+G0234,Shadow Chronicles 3,Nintendo Switch,2024,Strategy,Activision,2.98,83,7.9,98,29.99,T,No,Medium (1-5M),0.4,2020
+G0235,Final Force,PC,2016,Action,Epic Games,5.86,74,6.3,51,14.99,M,No,High (5-15M),1.1,2010
+G0236,Cyber Warriors,PlayStation,2018,Action,Valve,4.98,87,8.6,13,49.99,E,No,Medium (1-5M),0.1,2010
+G0237,Storm Horizon 1,PlayStation,2015,Adventure,Ubisoft,8.23,60,6.5,23,19.99,T,No,High (5-15M),-0.5,2010
+G0238,Iron Souls,PC,2018,RPG,Nintendo,1.82,87,7.4,77,49.99,E,No,Medium (1-5M),1.3,2010
+G0239,Mega Rivals,PlayStation,2020,RPG,Electronic Arts,6.49,61,6.4,17,9.99,E10+,Yes,High (5-15M),-0.3,2020
+G0240,Epic Worlds,PC,2021,Action,Activision,0.33,71,8.7,42,9.99,T,No,Low (<1M),-1.6,2020
+G0241,Super Chronicles,Xbox,2015,Sports,Take-Two,7.29,82,8.3,24,14.99,E,No,High (5-15M),-0.1,2010
+G0242,Final Arena,PC,2017,Simulation,Take-Two,4.09,92,7.9,8,9.99,E10+,No,Medium (1-5M),1.3,2010
+G0243,Neon Strike,Nintendo Switch,2020,Puzzle,Epic Games,5.74,87,7.7,15,14.99,M,No,High (5-15M),1.0,2020
+G0244,Neon Quest,Xbox,2024,Fighting,Valve,1.78,73,7.4,25,9.99,E10+,Yes,Medium (1-5M),-0.1,2020
+G0245,Battle Arena 3,PC,2021,Adventure,Capcom,6.47,90,9.0,18,49.99,E10+,No,High (5-15M),0.0,2020
+G0246,Shadow Rivals,PlayStation,2015,Adventure,Microsoft,3.11,51,5.1,37,9.99,E,Yes,Medium (1-5M),0.0,2010
+G0247,Iron Arena,PlayStation,2017,Shooter,Electronic Arts,5.62,81,7.8,7,49.99,E,Yes,High (5-15M),0.3,2010
+G0248,Epic Force,PlayStation,2021,Simulation,Bandai Namco,45.0,55,5.2,53,59.99,T,Yes,Blockbuster (15M+),0.3,2020
+G0249,Shadow Fury,PlayStation,2023,Puzzle,Valve,0.82,79,9.2,9,9.99,T,No,Low (<1M),-1.3,2020
+G0250,Legend Empire,Nintendo Switch,2022,Adventure,Bandai Namco,6.1,74,6.6,34,39.99,T,Yes,High (5-15M),0.8,2020
+G0251,Final Horizon 3,Xbox,2022,Shooter,Nintendo,25.4,78,7.2,24,9.99,E10+,No,Blockbuster (15M+),0.6,2020
+G0252,Space Age,Xbox,2019,Adventure,Sega,8.76,68,6.1,29,29.99,E,No,High (5-15M),0.7,2010
+G0253,Pixel Horizon 2,PC,2020,Racing,Microsoft,9.52,71,6.3,61,29.99,M,No,High (5-15M),0.8,2020
+G0254,Neon Odyssey,Xbox,2025,Puzzle,Electronic Arts,1.8,83,6.4,45,49.99,E10+,Yes,Medium (1-5M),1.9,2020
+G0255,Lost Chronicles 1,PC,2021,Fighting,Epic Games,2.68,82,8.0,36,29.99,T,No,Medium (1-5M),0.2,2020
+G0256,Battle Quest 1,PC,2023,Strategy,Take-Two,3.41,85,8.1,70,39.99,E10+,No,Medium (1-5M),0.4,2020
+G0257,Lost Fury,PlayStation,2018,Adventure,Valve,0.91,90,9.2,18,39.99,E,No,Low (<1M),-0.2,2010
+G0258,Pixel Souls,Xbox,2024,Action,Square Enix,15.9,68,4.2,58,9.99,E10+,No,Blockbuster (15M+),2.6,2020
+G0259,Space Force,PlayStation,2020,RPG,Capcom,3.04,75,8.3,13,19.99,E10+,Yes,Medium (1-5M),-0.8,2020
+G0260,Rising Quest,Nintendo Switch,2017,Sports,Nintendo,12.67,83,7.8,54,29.99,E10+,No,High (5-15M),0.5,2010
+G0261,Mega Chronicles,PC,2025,Simulation,Epic Games,9.12,64,5.2,27,29.99,E10+,No,High (5-15M),1.2,2020
+G0262,Dark Legacy 1,PC,2025,Action,Capcom,12.81,57,3.6,19,59.99,T,Yes,High (5-15M),2.1,2020
+G0263,Neon Rivals 1,Nintendo Switch,2020,Shooter,Activision,9.67,71,7.2,45,49.99,T,No,High (5-15M),-0.1,2020
+G0264,Eternal Legacy,Xbox,2025,Racing,Capcom,9.61,66,5.9,11,29.99,M,No,High (5-15M),0.7,2020
+G0265,Space Dawn,Xbox,2024,Racing,Take-Two,0.48,79,8.6,2,29.99,M,Yes,Low (<1M),-0.7,2020
+G0266,Epic Raid,PC,2025,Strategy,Sega,13.71,78,7.6,13,39.99,T,No,High (5-15M),0.2,2020
+G0267,Rising Raid,PlayStation,2016,Shooter,Epic Games,1.72,73,7.1,28,49.99,T,Yes,Medium (1-5M),0.2,2010
+G0268,Ultra Tactics,PlayStation,2019,Simulation,Take-Two,6.63,71,5.7,39,14.99,E,Yes,High (5-15M),1.4,2010
+G0269,Mega Fury 3,PC,2023,RPG,Electronic Arts,4.83,82,8.1,47,19.99,E10+,Yes,Medium (1-5M),0.1,2020
+G0270,Space Warriors,Xbox,2022,RPG,Ubisoft,2.85,58,5.1,31,49.99,M,No,Medium (1-5M),0.7,2020
+G0271,Ultra Force,PlayStation,2021,Puzzle,Capcom,1.11,74,8.3,15,49.99,E10+,Yes,Medium (1-5M),-0.9,2020
+G0272,Iron Quest 2,PC,2021,RPG,Ubisoft,0.8,72,7.7,9,69.99,T,Yes,Low (<1M),-0.5,2020
+G0273,Mega Odyssey,Mobile,2022,Action,Capcom,6.17,64,7.3,58,19.99,E,No,High (5-15M),-0.9,2020
+G0274,Iron Quest 1,Xbox,2012,Adventure,Microsoft,0.97,62,6.7,29,59.99,E,Yes,Low (<1M),-0.5,2010
+G0275,Epic Dawn 1,Xbox,2016,Puzzle,Epic Games,6.41,89,8.2,22,39.99,E10+,No,High (5-15M),0.7,2010
+G0276,Dark Quest 2,Mobile,2021,Shooter,Nintendo,11.43,91,8.1,39,49.99,T,No,High (5-15M),1.0,2020
+G0277,Mega Odyssey 2,Nintendo Switch,2016,RPG,Capcom,0.74,68,7.8,17,9.99,T,No,Low (<1M),-1.0,2010
+G0278,Shadow Legacy,PC,2015,Shooter,Bandai Namco,7.05,80,7.1,13,19.99,E,No,High (5-15M),0.9,2010
+G0279,Rising Tactics,Xbox,2022,Strategy,Ubisoft,0.75,60,5.5,45,39.99,E10+,No,Low (<1M),0.5,2020
+G0280,Ancient Empire,PlayStation,2018,RPG,Square Enix,3.5,91,9.3,16,29.99,M,No,Medium (1-5M),-0.2,2010
+G0281,Battle Raid,PC,2022,Simulation,Sony Interactive,12.61,71,7.6,33,39.99,T,Yes,High (5-15M),-0.5,2020
+G0282,Dragon Legacy 2,PlayStation,2017,Strategy,Epic Games,1.0,79,6.3,76,39.99,E,Yes,Low (<1M),1.6,2010
+G0283,Iron Dawn,Xbox,2017,RPG,Ubisoft,9.71,72,6.9,12,49.99,M,No,High (5-15M),0.3,2010
+G0284,Battle Age 3,Nintendo Switch,2014,Racing,Activision,2.96,83,6.7,31,49.99,E,No,Medium (1-5M),1.6,2010
+G0285,Iron Raid 3,PC,2018,Simulation,Sony Interactive,1.04,57,6.0,24,59.99,E,Yes,Medium (1-5M),-0.3,2010
+G0286,Mega Raid,PlayStation,2017,Shooter,Capcom,8.54,84,8.2,27,49.99,E10+,No,High (5-15M),0.2,2010
+G0287,Lost Souls,Xbox,2024,Adventure,Nintendo,2.41,70,7.5,46,39.99,E,Yes,Medium (1-5M),-0.5,2020
+G0288,Dark Odyssey,PC,2021,Action,Activision,2.5,58,5.3,19,39.99,T,Yes,Medium (1-5M),0.5,2020
+G0289,Rising Chronicles 1,PlayStation,2014,Action,Microsoft,16.59,98,8.2,6,39.99,T,No,Blockbuster (15M+),1.6,2010
+G0290,Legend Raid 3,PlayStation,2014,Adventure,Bandai Namco,5.95,85,7.4,26,39.99,E,Yes,High (5-15M),1.1,2010
+G0291,Space Legacy,Xbox,2018,Action,Bandai Namco,11.1,71,6.8,8,29.99,E,No,High (5-15M),0.3,2010
+G0292,Storm Dawn,PlayStation,2024,Action,Sony Interactive,13.79,62,6.2,36,49.99,M,No,High (5-15M),0.0,2020
+G0293,Dark Raid,PC,2023,Simulation,Activision,5.63,52,6.0,25,29.99,T,Yes,High (5-15M),-0.8,2020
+G0294,Final Warriors,Xbox,2013,RPG,Activision,1.61,65,6.2,16,19.99,T,No,Medium (1-5M),0.3,2010
+G0295,Iron Empire,Mobile,2013,Shooter,Ubisoft,5.96,74,7.0,16,9.99,T,No,High (5-15M),0.4,2010
+G0296,Storm Age 3,PlayStation,2023,Racing,Nintendo,4.13,69,6.5,38,59.99,M,Yes,Medium (1-5M),0.4,2020
+G0297,Rising Worlds,PC,2019,Shooter,Capcom,0.76,95,9.8,168,29.99,T,No,Low (<1M),-0.3,2010
+G0298,Pixel Worlds,PC,2023,Action,Bandai Namco,30.98,60,4.8,7,14.99,E10+,No,Blockbuster (15M+),1.2,2020
+G0299,Eternal Dawn 3,Nintendo Switch,2021,Sports,Sony Interactive,21.93,77,6.8,7,49.99,E10+,No,Blockbuster (15M+),0.9,2020
+G0300,Pixel Quest 3,Xbox,2013,Adventure,Valve,9.36,84,9.8,66,14.99,E10+,No,High (5-15M),-1.4,2010
+G0301,Super Legacy,PlayStation,2025,Puzzle,Microsoft,45.0,80,7.0,41,39.99,M,No,Blockbuster (15M+),1.0,2020
+G0302,Battle Chronicles 3,Xbox,2018,Adventure,Microsoft,2.8,89,9.2,43,14.99,E10+,No,Medium (1-5M),-0.3,2010
+G0303,Cyber Chronicles,PlayStation,2014,Adventure,Sony Interactive,12.2,78,7.2,66,19.99,T,No,High (5-15M),0.6,2010
+G0304,Ultra Souls,Xbox,2013,Sports,Ubisoft,7.53,81,9.8,10,29.99,E10+,No,High (5-15M),-1.7,2010
+G0305,Dragon Horizon,Nintendo Switch,2017,Fighting,Epic Games,1.07,87,8.4,11,9.99,M,Yes,Medium (1-5M),0.3,2010
+G0306,Epic Horizon,PlayStation,2015,RPG,Bandai Namco,23.72,83,7.3,32,39.99,T,No,Blockbuster (15M+),1.0,2010
+G0307,Final Arena 3,PlayStation,2023,RPG,Sony Interactive,3.53,98,9.3,3,59.99,T,No,Medium (1-5M),0.5,2020
+G0308,Neon Rivals,Mobile,2024,Sports,Ubisoft,10.72,69,6.2,27,49.99,M,Yes,High (5-15M),0.7,2020
+G0309,Neon Warriors 3,Xbox,2018,Shooter,Nintendo,0.99,69,6.7,16,39.99,M,Yes,Low (<1M),0.2,2010
+G0310,Cyber Rivals,PC,2022,Racing,Epic Games,0.47,49,5.1,29,49.99,M,No,Low (<1M),-0.2,2020
+G0311,Mega Age,Nintendo Switch,2013,Shooter,Nintendo,5.21,70,6.9,13,49.99,E,Yes,High (5-15M),0.1,2010
+G0312,Space Chronicles,Xbox,2018,Fighting,Epic Games,5.32,69,6.5,28,49.99,E10+,No,High (5-15M),0.4,2010
+G0313,Shadow Raid 1,PC,2021,Puzzle,Electronic Arts,5.77,74,8.1,22,9.99,E10+,Yes,High (5-15M),-0.7,2020
+G0314,Final Empire 1,Nintendo Switch,2021,Puzzle,Bandai Namco,3.04,65,6.1,8,19.99,E,Yes,Medium (1-5M),0.4,2020
+G0315,Dark Worlds,Mobile,2025,Action,Capcom,4.64,79,8.3,15,29.99,E10+,Yes,Medium (1-5M),-0.4,2020
+G0316,Battle Age 2,PC,2012,Action,Nintendo,2.87,76,7.8,16,14.99,E10+,No,Medium (1-5M),-0.2,2010
+G0317,Dragon Worlds,PC,2013,Action,Take-Two,12.11,92,8.8,10,49.99,E10+,Yes,High (5-15M),0.4,2010
+G0318,Dark Age,PC,2018,Action,Electronic Arts,6.7,73,8.2,14,19.99,E10+,Yes,High (5-15M),-0.9,2010
+G0319,Epic Worlds 2,PlayStation,2023,RPG,Square Enix,1.89,81,9.0,31,59.99,E,No,Medium (1-5M),-0.9,2020
+G0320,Ultra Horizon,Xbox,2023,Sports,Valve,12.67,89,8.8,20,14.99,T,Yes,High (5-15M),0.1,2020
+G0321,Storm Tactics,Mobile,2024,Sports,Electronic Arts,4.0,90,8.8,82,59.99,E10+,No,Medium (1-5M),0.2,2020
+G0322,Dragon Legacy,Xbox,2022,Fighting,Microsoft,4.93,71,4.7,20,59.99,T,No,Medium (1-5M),2.4,2020
+G0323,Legend Age,PlayStation,2017,Shooter,Activision,21.06,63,4.5,44,69.99,E,Yes,Blockbuster (15M+),1.8,2010
+G0324,Rising Age 1,PlayStation,2017,Shooter,Nintendo,9.72,88,8.0,33,39.99,E10+,Yes,High (5-15M),0.8,2010
+G0325,Super Warriors 2,Mobile,2024,Sports,Take-Two,1.36,65,6.4,21,39.99,T,No,Medium (1-5M),0.1,2020
+G0326,Super Fury,PlayStation,2013,Action,Electronic Arts,8.01,76,8.5,13,39.99,T,No,High (5-15M),-0.9,2010
+G0327,Dragon Warriors,Xbox,2014,Action,Nintendo,2.85,98,9.2,30,39.99,E10+,No,Medium (1-5M),0.6,2010
+G0328,Eternal Souls 3,Mobile,2023,Fighting,Activision,1.62,82,7.6,5,49.99,M,Yes,Medium (1-5M),0.6,2020
+G0329,Iron Legacy,Xbox,2022,Fighting,Square Enix,31.29,84,8.3,9,59.99,M,No,Blockbuster (15M+),0.1,2020
+G0330,Storm Legacy,PC,2024,RPG,Activision,29.51,75,6.6,10,9.99,M,No,Blockbuster (15M+),0.9,2020
+G0331,Neon Souls 3,PC,2012,Fighting,Microsoft,1.01,87,8.7,35,19.99,E10+,No,Medium (1-5M),0.0,2010
+G0332,Ancient Chronicles,Xbox,2020,Action,Nintendo,1.5,58,5.4,14,19.99,E10+,No,Medium (1-5M),0.4,2020
+G0333,Space Empire 1,PC,2013,Fighting,Nintendo,2.16,68,7.1,12,19.99,E10+,Yes,Medium (1-5M),-0.3,2010
+G0334,Dragon Rivals 1,PC,2019,Fighting,Microsoft,13.76,83,8.4,71,59.99,M,No,High (5-15M),-0.1,2010
+G0335,Epic Chronicles 1,PC,2023,Action,Capcom,1.92,94,9.8,20,59.99,M,Yes,Medium (1-5M),-0.4,2020
+G0336,Ancient Warriors,PC,2020,Racing,Ubisoft,2.35,61,6.8,20,14.99,T,No,Medium (1-5M),-0.7,2020
+G0337,Epic Horizon 3,PlayStation,2021,RPG,Nintendo,14.56,90,7.3,64,29.99,E,Yes,High (5-15M),1.7,2020
+G0338,Iron Horizon,Xbox,2016,Action,Valve,4.65,86,7.7,78,39.99,M,Yes,Medium (1-5M),0.9,2010
+G0339,Shadow Raid,Nintendo Switch,2021,Adventure,Bandai Namco,3.03,66,6.4,13,19.99,M,No,Medium (1-5M),0.2,2020
+G0340,Lost Worlds,Xbox,2022,Racing,Valve,6.16,70,7.2,42,39.99,E10+,Yes,High (5-15M),-0.2,2020
+G0341,Ultra Fury,PC,2021,Strategy,Sony Interactive,2.23,68,5.3,26,69.99,T,Yes,Medium (1-5M),1.5,2020
+G0342,Eternal Force,Nintendo Switch,2012,Racing,Microsoft,0.31,70,7.6,17,29.99,E10+,Yes,Low (<1M),-0.6,2010
+G0343,Ancient Force 1,PlayStation,2017,Sports,Activision,2.25,58,5.9,33,29.99,T,Yes,Medium (1-5M),-0.1,2010
+G0344,Pixel Tactics,PC,2017,Fighting,Sega,5.29,97,9.4,17,29.99,E,No,High (5-15M),0.3,2010
+G0345,Epic Raid 1,PlayStation,2025,Puzzle,Bandai Namco,2.16,64,7.3,25,9.99,T,No,Medium (1-5M),-0.9,2020
+G0346,Legend Fury 2,Xbox,2021,Adventure,Valve,6.1,88,7.4,14,14.99,E10+,Yes,High (5-15M),1.4,2020
+G0347,Epic Warriors 2,Xbox,2025,Racing,Nintendo,2.31,74,7.2,8,49.99,E,Yes,Medium (1-5M),0.2,2020
+G0348,Cyber Chronicles 1,PC,2018,Puzzle,Bandai Namco,0.31,66,5.4,12,14.99,E10+,Yes,Low (<1M),1.2,2010
+G0349,Epic Dawn,PlayStation,2013,Strategy,Epic Games,5.79,83,7.7,20,49.99,T,Yes,High (5-15M),0.6,2010
+G0350,Iron Age,PlayStation,2020,Adventure,Sony Interactive,4.07,76,7.4,49,49.99,T,No,Medium (1-5M),0.2,2020
+G0351,Iron Tactics 2,PC,2014,RPG,Sony Interactive,6.4,77,6.5,21,29.99,T,No,High (5-15M),1.2,2010
+G0352,Iron Dawn 3,Mobile,2023,Strategy,Take-Two,0.29,57,4.6,15,9.99,M,Yes,Low (<1M),1.1,2020
+G0353,Storm Worlds,Mobile,2020,Sports,Valve,4.69,61,6.9,20,49.99,T,Yes,Medium (1-5M),-0.8,2020
+G0354,Neon Raid 2,PC,2014,Simulation,Nintendo,1.93,71,7.3,17,59.99,E10+,Yes,Medium (1-5M),-0.2,2010
+G0355,Ancient Dawn 2,PC,2020,Adventure,Sega,3.53,73,7.3,39,59.99,M,Yes,Medium (1-5M),0.0,2020
+G0356,Shadow Souls,Xbox,2023,Adventure,Bandai Namco,3.34,74,7.1,14,39.99,M,Yes,Medium (1-5M),0.3,2020
+G0357,Legend Fury 3,PC,2023,Sports,Valve,1.17,70,6.1,11,19.99,E,Yes,Medium (1-5M),0.9,2020
+G0358,Dark Odyssey 2,PC,2023,Adventure,Sony Interactive,0.17,69,5.8,7,39.99,E,No,Low (<1M),1.1,2020
+G0359,Rising Horizon,Nintendo Switch,2015,Simulation,Bandai Namco,2.0,65,5.3,7,49.99,E,Yes,Medium (1-5M),1.2,2010
+G0360,Legend Tactics 1,Xbox,2024,RPG,Epic Games,1.17,83,7.2,14,29.99,E10+,No,Medium (1-5M),1.1,2020
+G0361,Dragon Empire,Xbox,2015,Simulation,Ubisoft,0.99,70,6.1,62,49.99,E10+,Yes,Low (<1M),0.9,2010
+G0362,Eternal Rivals 3,PC,2018,Puzzle,Nintendo,9.75,95,8.9,40,39.99,T,Yes,High (5-15M),0.6,2010
+G0363,Ultra Empire,PlayStation,2012,Sports,Take-Two,5.09,79,7.8,60,49.99,E,No,High (5-15M),0.1,2010
+G0364,Shadow Odyssey 2,Nintendo Switch,2023,Action,Electronic Arts,18.12,81,8.2,61,39.99,E,Yes,Blockbuster (15M+),-0.1,2020
+G0365,Final Souls,Mobile,2014,Action,Valve,1.43,69,6.6,18,59.99,E10+,No,Medium (1-5M),0.3,2010
+G0366,Super Dawn 1,PC,2017,Racing,Bandai Namco,11.89,77,7.2,5,59.99,E10+,No,High (5-15M),0.5,2010
+G0367,Space Tactics 2,PC,2013,Action,Nintendo,25.53,72,7.9,46,39.99,T,No,Blockbuster (15M+),-0.7,2010
+G0368,Iron Raid 1,Nintendo Switch,2016,RPG,Valve,9.5,48,4.8,30,14.99,M,No,High (5-15M),0.0,2010
+G0369,Legend Souls,Nintendo Switch,2024,Racing,Nintendo,0.66,84,8.4,53,39.99,E10+,No,Low (<1M),0.0,2020
+G0370,Super Quest 3,Mobile,2016,Action,Square Enix,3.61,61,5.9,21,59.99,M,Yes,Medium (1-5M),0.2,2010
+G0371,Lost Warriors 1,Nintendo Switch,2012,Action,Capcom,3.94,40,4.2,19,49.99,E10+,Yes,Medium (1-5M),-0.2,2010
+G0372,Legend Legacy,PC,2014,Fighting,Electronic Arts,1.03,76,7.4,46,49.99,E10+,No,Medium (1-5M),0.2,2010
+G0373,Mega Force 1,PC,2019,Puzzle,Take-Two,1.05,73,6.9,30,14.99,E,No,Medium (1-5M),0.4,2010
+G0374,Rising Age,PlayStation,2016,Sports,Electronic Arts,26.24,62,5.0,54,14.99,T,Yes,Blockbuster (15M+),1.2,2010
+G0375,Eternal Force 2,Xbox,2024,Shooter,Nintendo,8.91,78,8.9,24,39.99,E,Yes,High (5-15M),-1.1,2020
+G0376,Legend Tactics 3,PlayStation,2016,RPG,Bandai Namco,3.63,78,7.5,12,39.99,T,Yes,Medium (1-5M),0.3,2010
+G0377,Dragon Fury,PC,2023,Action,Take-Two,11.25,58,7.1,24,19.99,E10+,No,High (5-15M),-1.3,2020
+G0378,Eternal Dawn 2,Nintendo Switch,2022,Fighting,Nintendo,1.58,90,8.3,111,19.99,T,No,Medium (1-5M),0.7,2020
+G0379,Super Horizon,Mobile,2025,RPG,Sony Interactive,3.29,72,7.5,49,29.99,T,Yes,Medium (1-5M),-0.3,2020
+G0380,Ancient Worlds 1,PlayStation,2022,Strategy,Valve,6.07,62,5.8,31,9.99,E10+,No,High (5-15M),0.4,2020
+G0381,Cyber Fury,Xbox,2012,Adventure,Activision,0.34,65,5.5,20,59.99,E10+,Yes,Low (<1M),1.0,2010
+G0382,Final Chronicles 2,PlayStation,2015,Racing,Sega,5.02,80,9.7,16,39.99,E10+,Yes,High (5-15M),-1.7,2010
+G0383,Legend Tactics,PlayStation,2013,Action,Nintendo,2.14,82,8.0,15,39.99,M,No,Medium (1-5M),0.2,2010
+G0384,Ancient Fury 3,Nintendo Switch,2013,RPG,Nintendo,4.95,64,5.9,43,19.99,E,Yes,Medium (1-5M),0.5,2010
+G0385,Storm Horizon,Xbox,2012,Sports,Take-Two,12.46,77,7.4,13,49.99,M,No,High (5-15M),0.3,2010
+G0386,Shadow Force,Mobile,2012,Adventure,Sega,18.1,55,5.1,65,29.99,M,Yes,Blockbuster (15M+),0.4,2010
+G0387,Neon Horizon 3,PC,2023,Fighting,Microsoft,0.77,87,8.7,8,29.99,T,Yes,Low (<1M),0.0,2020
+G0388,Mega Fury,PC,2018,Action,Epic Games,28.16,70,6.5,9,19.99,E10+,No,Blockbuster (15M+),0.5,2010
+G0389,Eternal Arena 2,PC,2017,Action,Sega,7.93,90,9.1,22,39.99,T,Yes,High (5-15M),-0.1,2010
+G0390,Super Legacy 3,Xbox,2024,Shooter,Microsoft,5.83,66,6.4,74,19.99,T,Yes,High (5-15M),0.2,2020
+G0391,Neon Rivals 3,PC,2014,Sports,Sega,2.16,58,5.4,16,39.99,T,Yes,Medium (1-5M),0.4,2010
+G0392,Battle Empire,PC,2015,Simulation,Activision,23.58,96,9.4,50,69.99,E,Yes,Blockbuster (15M+),0.2,2010
+G0393,Rising Tactics 3,PC,2019,Action,Electronic Arts,3.02,75,6.8,21,14.99,E,Yes,Medium (1-5M),0.7,2010
+G0394,Epic Odyssey,PC,2020,Sports,Take-Two,12.31,48,5.4,64,29.99,T,Yes,High (5-15M),-0.6,2020
+G0395,Dark Odyssey 1,PlayStation,2025,Action,Capcom,33.4,81,7.1,8,19.99,E,Yes,Blockbuster (15M+),1.0,2020
+G0396,Dragon Odyssey 1,Xbox,2018,Strategy,Bandai Namco,8.14,73,6.9,19,29.99,M,No,High (5-15M),0.4,2010
+G0397,Neon Rivals 2,Nintendo Switch,2017,Adventure,Bandai Namco,1.91,57,5.7,23,19.99,M,Yes,Medium (1-5M),0.0,2010
+G0398,Ancient Tactics,PlayStation,2022,Strategy,Electronic Arts,7.7,79,7.0,33,29.99,T,Yes,High (5-15M),0.9,2020
+G0399,Ultra Fury 2,Mobile,2023,Sports,Activision,1.27,70,7.8,10,39.99,E10+,Yes,Medium (1-5M),-0.8,2020
+G0400,Rising Rivals 1,Xbox,2012,Shooter,Sony Interactive,45.0,57,4.3,31,49.99,E,Yes,Blockbuster (15M+),1.4,2010
+G0401,Dark Raid 2,PlayStation,2017,Strategy,Epic Games,8.16,95,9.7,43,39.99,T,Yes,High (5-15M),-0.2,2010
+G0402,Space Souls,PlayStation,2012,Adventure,Valve,0.54,75,7.2,20,19.99,T,Yes,Low (<1M),0.3,2010
+G0403,Battle Warriors,Mobile,2018,Shooter,Sony Interactive,1.62,73,7.7,108,29.99,T,No,Medium (1-5M),-0.4,2010
+G0404,Eternal Arena,PC,2023,Adventure,Epic Games,0.64,83,8.9,34,39.99,E10+,Yes,Low (<1M),-0.6,2020
+G0405,Iron Force 1,PC,2023,RPG,Square Enix,2.23,61,7.5,62,29.99,T,Yes,Medium (1-5M),-1.4,2020
+G0406,Battle Age 1,PC,2025,Action,Capcom,2.54,62,6.9,18,9.99,T,No,Medium (1-5M),-0.7,2020
+G0407,Ancient Tactics 3,Mobile,2014,Strategy,Capcom,2.95,85,9.7,41,49.99,M,No,Medium (1-5M),-1.2,2010
+G0408,Ancient Age,PC,2019,Racing,Activision,2.69,79,7.2,18,59.99,T,No,Medium (1-5M),0.7,2010
+G0409,Cyber Rivals 3,Nintendo Switch,2015,Adventure,Take-Two,1.37,53,5.4,27,29.99,M,No,Medium (1-5M),-0.1,2010
+G0410,Storm Rivals 3,Mobile,2023,Racing,Take-Two,5.81,64,6.5,76,19.99,T,Yes,High (5-15M),-0.1,2020
+G0411,Iron Souls 3,Xbox,2016,Sports,Activision,8.2,74,7.5,33,49.99,E10+,No,High (5-15M),-0.1,2010
+G0412,Rising Odyssey,Xbox,2015,Action,Take-Two,3.22,79,7.3,141,39.99,M,No,Medium (1-5M),0.6,2010
+G0413,Eternal Arena 3,PC,2017,Strategy,Square Enix,2.37,72,6.0,40,19.99,E10+,Yes,Medium (1-5M),1.2,2010
+G0414,Eternal Souls,PC,2014,Adventure,Sega,4.81,67,6.1,39,49.99,M,No,Medium (1-5M),0.6,2010
+G0415,Epic Empire 3,PC,2017,Shooter,Nintendo,24.03,89,9.2,18,69.99,E10+,Yes,Blockbuster (15M+),-0.3,2010
+G0416,Legend Fury,Nintendo Switch,2021,Adventure,Sony Interactive,0.99,94,7.7,40,39.99,M,No,Low (<1M),1.7,2020
+G0417,Pixel Rivals 3,Mobile,2014,Fighting,Nintendo,25.46,70,6.1,18,39.99,E10+,Yes,Blockbuster (15M+),0.9,2010
+G0418,Storm Worlds 3,PlayStation,2013,Action,Nintendo,12.43,61,6.6,31,14.99,M,No,High (5-15M),-0.5,2010
+G0419,Ancient Worlds,Mobile,2024,Puzzle,Electronic Arts,0.93,75,7.1,10,9.99,E,Yes,Low (<1M),0.4,2020
+G0420,Neon Odyssey 1,PlayStation,2013,Action,Electronic Arts,17.63,72,5.1,109,29.99,M,No,Blockbuster (15M+),2.1,2010
+G0421,Super Warriors,Xbox,2022,Simulation,Electronic Arts,4.77,80,7.0,52,59.99,E10+,Yes,Medium (1-5M),1.0,2020
+G0422,Iron Force,Xbox,2020,RPG,Sony Interactive,10.67,98,9.8,16,49.99,T,No,High (5-15M),0.0,2020
+G0423,Cyber Odyssey,PC,2012,Racing,Square Enix,1.13,64,6.2,20,49.99,E10+,No,Medium (1-5M),0.2,2010
+G0424,Mega Quest 1,PC,2013,Fighting,Take-Two,1.45,85,7.6,28,39.99,T,No,Medium (1-5M),0.9,2010
+G0425,Neon Quest 2,Nintendo Switch,2013,Simulation,Take-Two,2.99,74,6.7,25,49.99,E10+,No,Medium (1-5M),0.7,2010
+G0426,Lost Empire 3,Nintendo Switch,2015,Adventure,Electronic Arts,1.14,89,9.1,16,29.99,M,Yes,Medium (1-5M),-0.2,2010
+G0427,Neon Fury,PC,2019,RPG,Take-Two,6.15,58,5.0,7,29.99,M,No,High (5-15M),0.8,2010
+G0428,Eternal Rivals,PlayStation,2013,Sports,Electronic Arts,1.3,61,5.1,17,49.99,E,No,Medium (1-5M),1.0,2010
+G0429,Ancient Strike,PC,2014,Action,Ubisoft,8.09,68,5.9,26,69.99,E10+,No,High (5-15M),0.9,2010
+G0430,Ancient Raid,Nintendo Switch,2019,Adventure,Sega,18.67,74,6.6,13,19.99,E10+,Yes,Blockbuster (15M+),0.8,2010
+G0431,Shadow Dawn,PC,2014,Shooter,Ubisoft,2.7,63,7.2,24,49.99,T,Yes,Medium (1-5M),-0.9,2010
+G0432,Cyber Strike,PC,2013,Shooter,Microsoft,2.73,72,6.8,32,9.99,E,Yes,Medium (1-5M),0.4,2010
+G0433,Legend Rivals 2,PC,2018,Puzzle,Sega,15.51,67,7.4,8,19.99,E,No,Blockbuster (15M+),-0.7,2010
+G0434,Battle Souls 3,Nintendo Switch,2013,Fighting,Epic Games,2.66,67,7.2,9,29.99,E,No,Medium (1-5M),-0.5,2010
+G0435,Space Force 3,PlayStation,2012,Simulation,Electronic Arts,2.11,65,7.0,9,39.99,T,Yes,Medium (1-5M),-0.5,2010
+G0436,Cyber Quest,PC,2025,Simulation,Epic Games,2.36,79,8.6,11,9.99,T,Yes,Medium (1-5M),-0.7,2020
+G0437,Battle Worlds 2,Xbox,2022,Action,Sony Interactive,2.24,71,6.4,14,14.99,M,Yes,Medium (1-5M),0.7,2020
+G0438,Epic Arena 3,PC,2020,Sports,Nintendo,5.97,93,9.1,49,39.99,E,Yes,High (5-15M),0.2,2020
+G0439,Final Quest 1,PlayStation,2020,Fighting,Electronic Arts,45.0,74,6.6,26,29.99,T,Yes,Blockbuster (15M+),0.8,2020
+G0440,Epic Age 2,PC,2021,Simulation,Capcom,1.26,84,9.0,32,19.99,M,No,Medium (1-5M),-0.6,2020
+G0441,Neon Legacy,PlayStation,2019,RPG,Activision,19.14,71,7.8,16,59.99,T,No,Blockbuster (15M+),-0.7,2010
+G0442,Ultra Warriors 3,Nintendo Switch,2025,Simulation,Electronic Arts,3.33,67,6.0,95,49.99,E10+,No,Medium (1-5M),0.7,2020
+G0443,Ultra Dawn 1,Xbox,2022,Adventure,Sega,1.86,62,5.8,78,19.99,M,No,Medium (1-5M),0.4,2020
+G0444,Dark Rivals,PlayStation,2025,Puzzle,Electronic Arts,5.1,85,7.4,44,29.99,E,Yes,High (5-15M),1.1,2020
+G0445,Iron Strike,PC,2020,Action,Take-Two,12.5,59,5.7,57,14.99,T,No,High (5-15M),0.2,2020
+G0446,Space Empire 3,Nintendo Switch,2015,Strategy,Activision,13.12,58,5.2,14,49.99,T,Yes,High (5-15M),0.6,2010
+G0447,Cyber Arena,Nintendo Switch,2017,Sports,Nintendo,6.0,79,7.4,10,14.99,T,No,High (5-15M),0.5,2010
+G0448,Storm Raid 1,PC,2012,Shooter,Sega,4.29,71,7.7,27,49.99,E10+,No,Medium (1-5M),-0.6,2010
+G0449,Space Horizon 3,Mobile,2023,Racing,Take-Two,1.96,78,7.7,6,39.99,T,Yes,Medium (1-5M),0.1,2020
+G0450,Final Quest 3,Xbox,2015,RPG,Ubisoft,6.38,76,7.7,67,19.99,T,No,High (5-15M),-0.1,2010
+G0451,Cyber Age,PlayStation,2019,Shooter,Sega,7.05,49,5.0,16,19.99,E,Yes,High (5-15M),-0.1,2010
+G0452,Final Horizon 1,PlayStation,2016,Racing,Microsoft,0.47,83,6.3,25,49.99,E,No,Low (<1M),2.0,2010
+G0453,Ancient Legacy 3,Mobile,2021,RPG,Microsoft,30.26,78,6.8,24,69.99,T,No,Blockbuster (15M+),1.0,2020
+G0454,Pixel Souls 2,PlayStation,2022,Adventure,Ubisoft,2.79,81,7.8,9,49.99,E,No,Medium (1-5M),0.3,2020
+G0455,Legend Warriors 2,PC,2015,Action,Square Enix,4.35,67,6.0,39,29.99,E,Yes,Medium (1-5M),0.7,2010
+G0456,Cyber Horizon 2,Xbox,2025,Shooter,Square Enix,13.24,77,7.0,9,69.99,M,No,High (5-15M),0.7,2020
+G0457,Shadow Worlds 3,PC,2020,Sports,Nintendo,6.95,84,7.4,15,19.99,E,Yes,High (5-15M),1.0,2020
+G0458,Storm Rivals 1,PC,2013,RPG,Capcom,1.22,76,7.2,18,19.99,T,Yes,Medium (1-5M),0.4,2010
+G0459,Mega Souls,Mobile,2023,Strategy,Valve,13.25,75,8.1,19,29.99,E,No,High (5-15M),-0.6,2020
+G0460,Epic Chronicles,PC,2024,Simulation,Sony Interactive,8.24,63,5.3,11,59.99,T,No,High (5-15M),1.0,2020
+G0461,Space Warriors 1,PC,2015,RPG,Sony Interactive,1.22,67,6.7,27,69.99,T,Yes,Medium (1-5M),0.0,2010
+G0462,Lost Rivals 3,Nintendo Switch,2024,Sports,Take-Two,3.28,78,7.0,49,9.99,E10+,Yes,Medium (1-5M),0.8,2020
+G0463,Battle Raid 3,PlayStation,2016,Action,Microsoft,23.79,91,8.6,9,39.99,M,Yes,Blockbuster (15M+),0.5,2010
+G0464,Legend Arena 3,Xbox,2018,Sports,Square Enix,6.94,76,6.7,11,29.99,E10+,Yes,High (5-15M),0.9,2010
+G0465,Epic Souls,Mobile,2019,Puzzle,Nintendo,3.1,76,7.1,63,59.99,E,No,Medium (1-5M),0.5,2010
+G0466,Dark Chronicles 2,PlayStation,2020,Adventure,Nintendo,1.4,73,6.4,12,59.99,E10+,Yes,Medium (1-5M),0.9,2020
+G0467,Dark Legacy 2,Xbox,2012,RPG,Epic Games,4.92,66,7.6,49,29.99,T,Yes,Medium (1-5M),-1.0,2010
+G0468,Final Force 2,PC,2019,Sports,Square Enix,2.68,75,7.3,23,29.99,T,No,Medium (1-5M),0.2,2010
+G0469,Super Souls 2,Xbox,2024,Racing,Epic Games,0.72,42,4.2,22,49.99,E,No,Low (<1M),0.0,2020
+G0470,Neon Arena,PC,2018,Sports,Sony Interactive,10.85,71,7.2,17,39.99,E,No,High (5-15M),-0.1,2010
+G0471,Final Empire,PC,2013,Sports,Sony Interactive,2.27,83,7.8,20,19.99,M,No,Medium (1-5M),0.5,2010
+G0472,Legend Fury 1,PC,2015,Adventure,Epic Games,3.01,79,7.6,30,14.99,M,No,Medium (1-5M),0.3,2010
+G0473,Epic Empire 2,Mobile,2014,Racing,Sony Interactive,4.51,67,5.7,16,9.99,E,No,Medium (1-5M),1.0,2010
+G0474,Dragon Tactics,PlayStation,2024,Action,Square Enix,3.92,73,7.3,29,29.99,T,No,Medium (1-5M),0.0,2020
+G0475,Super Souls,Nintendo Switch,2012,RPG,Take-Two,14.43,55,3.0,36,19.99,M,Yes,High (5-15M),2.5,2010
+G0476,Battle Fury 3,PC,2024,Shooter,Activision,6.17,66,6.7,3,19.99,E10+,Yes,High (5-15M),-0.1,2020
+G0477,Ultra Dawn 3,Mobile,2018,RPG,Microsoft,10.38,51,4.8,36,9.99,E10+,Yes,High (5-15M),0.3,2010
+G0478,Cyber Tactics,Xbox,2018,Racing,Ubisoft,4.74,52,3.0,44,14.99,M,No,Medium (1-5M),2.2,2010
+G0479,Final Dawn 2,Xbox,2020,Sports,Nintendo,29.83,79,7.8,24,39.99,E10+,No,Blockbuster (15M+),0.1,2020
+G0480,Dragon Raid 1,PlayStation,2023,Adventure,Capcom,4.35,92,9.2,63,29.99,M,Yes,Medium (1-5M),0.0,2020
+G0481,Storm Age 1,PlayStation,2022,Adventure,Epic Games,2.83,68,7.5,25,9.99,T,No,Medium (1-5M),-0.7,2020
+G0482,Rising Force 1,PC,2019,Simulation,Microsoft,4.63,80,6.9,19,19.99,T,No,Medium (1-5M),1.1,2010
+G0483,Ancient Rivals,Xbox,2013,Action,Sony Interactive,37.22,75,6.8,46,59.99,E,Yes,Blockbuster (15M+),0.7,2010
+G0484,Mega Age 1,PC,2024,Adventure,Microsoft,6.61,66,6.4,74,49.99,T,No,High (5-15M),0.2,2020
+G0485,Final Souls 3,PlayStation,2020,Strategy,Activision,2.03,76,6.9,27,39.99,T,Yes,Medium (1-5M),0.7,2020
+G0486,Battle Quest,PC,2013,Simulation,Sony Interactive,0.71,71,7.8,8,39.99,E,Yes,Low (<1M),-0.7,2010
+G0487,Legend Force,PC,2016,Adventure,Sega,3.67,71,6.6,50,29.99,E10+,No,Medium (1-5M),0.5,2010
+G0488,Eternal Horizon,PC,2020,RPG,Square Enix,6.98,69,6.2,15,49.99,M,No,High (5-15M),0.7,2020
+G0489,Ultra Tactics 3,PC,2022,Adventure,Sega,1.25,71,7.0,30,69.99,M,No,Medium (1-5M),0.1,2020
+G0490,Storm Force,PC,2024,Action,Valve,0.39,95,8.2,6,39.99,E,Yes,Low (<1M),1.3,2020
+G0491,Lost Horizon,Xbox,2016,Sports,Square Enix,23.34,78,7.1,23,29.99,E10+,No,Blockbuster (15M+),0.7,2010
+G0492,Ancient Souls,Xbox,2013,Action,Ubisoft,36.55,50,4.4,6,14.99,E10+,No,Blockbuster (15M+),0.6,2010
+G0493,Super Dawn 2,Nintendo Switch,2015,RPG,Capcom,2.4,73,8.3,24,19.99,M,Yes,Medium (1-5M),-1.0,2010
+G0494,Cyber Rivals 2,PC,2016,Simulation,Activision,5.65,52,5.2,14,49.99,E,Yes,High (5-15M),0.0,2010
+G0495,Cyber Worlds 2,Nintendo Switch,2025,Action,Bandai Namco,1.71,73,7.7,31,49.99,T,Yes,Medium (1-5M),-0.4,2020
+G0496,Mega Dawn 2,PC,2018,Action,Sega,17.17,69,6.6,34,39.99,T,No,Blockbuster (15M+),0.3,2010
+G0497,Dark Force 3,PC,2018,Simulation,Nintendo,18.17,71,8.1,53,69.99,E,Yes,Blockbuster (15M+),-1.0,2010
+G0498,Shadow Tactics 1,PlayStation,2013,RPG,Epic Games,7.28,66,6.3,51,39.99,E10+,No,High (5-15M),0.3,2010
+G0499,Mega Strike,Xbox,2014,Strategy,Ubisoft,6.02,84,7.6,23,29.99,T,No,High (5-15M),0.8,2010
+G0500,Storm Fury,PC,2017,Shooter,Sony Interactive,3.23,47,5.5,11,49.99,T,Yes,Medium (1-5M),-0.8,2010
+G0501,Ultra Strike,PC,2022,RPG,Electronic Arts,5.43,78,7.8,37,39.99,T,Yes,High (5-15M),0.0,2020
+G0502,Ancient Force 2,PlayStation,2012,Fighting,Sony Interactive,1.11,88,9.1,9,9.99,T,No,Medium (1-5M),-0.3,2010
+G0503,Shadow Arena,Xbox,2024,Shooter,Capcom,6.19,70,5.7,31,19.99,E,Yes,High (5-15M),1.3,2020
+G0504,Epic Legacy 3,Nintendo Switch,2017,Shooter,Valve,3.6,71,6.8,34,19.99,M,No,Medium (1-5M),0.3,2010
+G0505,Ultra Rivals 2,Nintendo Switch,2021,Racing,Nintendo,11.27,60,6.5,14,39.99,E,No,High (5-15M),-0.5,2020
+G0506,Shadow Warriors 2,PlayStation,2017,RPG,Bandai Namco,17.88,65,6.4,16,49.99,T,No,Blockbuster (15M+),0.1,2010
+G0507,Final Strike,PC,2012,Puzzle,Electronic Arts,2.16,73,7.5,39,19.99,T,Yes,Medium (1-5M),-0.2,2010
+G0508,Legend Force 2,PC,2021,Sports,Activision,8.73,64,6.5,20,39.99,E10+,No,High (5-15M),-0.1,2020
+G0509,Mega Souls 1,Mobile,2016,Sports,Activision,0.53,70,6.5,29,59.99,E10+,No,Low (<1M),0.5,2010
+G0510,Cyber Horizon,PlayStation,2016,Adventure,Nintendo,4.6,57,4.8,23,49.99,E10+,No,Medium (1-5M),0.9,2010
+G0511,Ultra Legacy,PlayStation,2016,Sports,Activision,6.09,63,5.6,52,49.99,T,No,High (5-15M),0.7,2010
+G0512,Legend Force 1,Xbox,2018,Racing,Bandai Namco,3.13,67,6.5,47,59.99,M,Yes,Medium (1-5M),0.2,2010
+G0513,Cyber Empire 3,Xbox,2022,Racing,Electronic Arts,8.64,66,6.5,19,59.99,E10+,No,High (5-15M),0.1,2020
+G0514,Neon Warriors,PlayStation,2014,Sports,Sony Interactive,6.24,81,7.7,23,19.99,M,No,High (5-15M),0.4,2010
+G0515,Cyber Arena 1,PC,2019,Racing,Sega,3.35,70,5.9,31,49.99,E10+,No,Medium (1-5M),1.1,2010
+G0516,Eternal Legacy 2,Xbox,2017,RPG,Bandai Namco,10.62,75,8.6,13,19.99,E,No,High (5-15M),-1.1,2010
+G0517,Storm Chronicles,Mobile,2024,Shooter,Capcom,5.38,72,5.7,26,49.99,E10+,Yes,High (5-15M),1.5,2020
+G0518,Final Worlds 1,PlayStation,2014,Action,Nintendo,1.46,70,6.4,21,9.99,E,No,Medium (1-5M),0.6,2010
+G0519,Super Force 1,PlayStation,2025,Fighting,Sony Interactive,33.67,68,5.9,35,29.99,T,Yes,Blockbuster (15M+),0.9,2020
+G0520,Pixel Force,PlayStation,2024,RPG,Activision,27.25,72,8.0,19,39.99,M,Yes,Blockbuster (15M+),-0.8,2020
+G0521,Pixel Age 3,Xbox,2021,Shooter,Ubisoft,2.22,65,5.5,54,39.99,E,No,Medium (1-5M),1.0,2020
+G0522,Super Fury 1,Nintendo Switch,2016,Simulation,Epic Games,1.79,78,6.6,120,39.99,E,Yes,Medium (1-5M),1.2,2010
+G0523,Storm Force 3,PlayStation,2014,Racing,Electronic Arts,8.69,67,5.3,32,19.99,T,No,High (5-15M),1.4,2010
+G0524,Battle Legacy 1,PC,2024,RPG,Valve,2.83,97,8.2,23,39.99,E10+,No,Medium (1-5M),1.5,2020
+G0525,Eternal Raid 1,PlayStation,2017,Sports,Ubisoft,28.41,69,6.4,155,19.99,T,Yes,Blockbuster (15M+),0.5,2010
+G0526,Final Odyssey 1,PlayStation,2017,Fighting,Sega,45.0,80,6.8,26,29.99,E,No,Blockbuster (15M+),1.2,2010
+G0527,Storm Fury 3,Nintendo Switch,2022,Sports,Capcom,2.67,60,5.9,32,29.99,T,Yes,Medium (1-5M),0.1,2020
+G0528,Shadow Horizon 3,Xbox,2012,Puzzle,Activision,5.63,61,6.5,12,49.99,T,No,High (5-15M),-0.4,2010
+G0529,Shadow Souls 2,PC,2013,Fighting,Sony Interactive,18.42,65,5.4,39,19.99,E10+,Yes,Blockbuster (15M+),1.1,2010
+G0530,Eternal Worlds 2,PC,2021,Adventure,Electronic Arts,3.83,76,8.1,35,14.99,E,No,Medium (1-5M),-0.5,2020
+G0531,Cyber Worlds,PC,2014,Shooter,Microsoft,1.59,56,5.8,36,29.99,M,Yes,Medium (1-5M),-0.2,2010
+G0532,Cyber Odyssey 3,PlayStation,2024,Strategy,Electronic Arts,2.44,81,8.1,31,19.99,M,Yes,Medium (1-5M),0.0,2020
+G0533,Battle Empire 3,PlayStation,2012,Action,Take-Two,11.95,75,8.0,35,9.99,T,No,High (5-15M),-0.5,2010
+G0534,Pixel Worlds 1,PC,2013,Sports,Capcom,21.06,74,6.1,23,49.99,E,No,Blockbuster (15M+),1.3,2010
+G0535,Epic Force 1,PC,2014,Shooter,Activision,1.99,74,6.0,40,49.99,M,No,Medium (1-5M),1.4,2010
+G0536,Lost Tactics,PlayStation,2017,Sports,Electronic Arts,4.83,60,5.0,26,29.99,M,No,Medium (1-5M),1.0,2010
+G0537,Pixel Force 3,PC,2019,Action,Valve,7.31,66,6.5,13,29.99,M,Yes,High (5-15M),0.1,2010
+G0538,Neon Warriors 2,PC,2020,Shooter,Sega,7.28,86,8.1,11,14.99,T,No,High (5-15M),0.5,2020
+G0539,Super Quest,PlayStation,2020,Action,Sony Interactive,6.36,82,7.9,38,29.99,M,No,High (5-15M),0.3,2020
+G0540,Legend Odyssey 2,PlayStation,2025,Sports,Electronic Arts,3.29,88,8.4,5,39.99,E10+,No,Medium (1-5M),0.4,2020
+G0541,Battle Raid 1,PlayStation,2015,Sports,Sega,1.57,67,4.9,18,9.99,E10+,No,Medium (1-5M),1.8,2010
+G0542,Super Arena 1,PlayStation,2012,Shooter,Sony Interactive,4.84,78,6.8,13,39.99,M,Yes,Medium (1-5M),1.0,2010
+G0543,Rising Warriors 2,PC,2014,Racing,Nintendo,1.74,87,7.3,30,49.99,E,No,Medium (1-5M),1.4,2010
+G0544,Epic Raid 3,Nintendo Switch,2025,Adventure,Sega,0.91,70,5.9,12,39.99,E10+,Yes,Low (<1M),1.1,2020
+G0545,Ancient Odyssey,Xbox,2022,Action,Capcom,4.42,73,4.6,18,9.99,T,No,Medium (1-5M),2.7,2020
+G0546,Mega Quest,PC,2022,Adventure,Epic Games,8.02,81,6.3,26,14.99,E10+,Yes,High (5-15M),1.8,2020
+G0547,Super Horizon 2,PlayStation,2021,Strategy,Valve,10.15,72,7.8,35,39.99,E10+,Yes,High (5-15M),-0.6,2020
+G0548,Space Quest,Nintendo Switch,2018,Simulation,Ubisoft,3.05,69,5.8,35,49.99,T,No,Medium (1-5M),1.1,2010
+G0549,Ultra Rivals,Xbox,2014,Adventure,Microsoft,8.15,73,5.9,20,39.99,T,Yes,High (5-15M),1.4,2010
+G0550,Super Rivals 1,PC,2012,Sports,Epic Games,0.48,83,8.0,86,39.99,E,Yes,Low (<1M),0.3,2010
+G0551,Mega Worlds 2,PC,2017,Adventure,Activision,2.86,69,6.6,48,19.99,M,No,Medium (1-5M),0.3,2010
+G0552,Super Odyssey 1,PC,2023,Sports,Square Enix,9.15,77,6.5,42,59.99,E,Yes,High (5-15M),1.2,2020
+G0553,Ancient Fury,PlayStation,2021,Shooter,Capcom,3.19,88,9.5,18,29.99,E,Yes,Medium (1-5M),-0.7,2020
+G0554,Rising Odyssey 3,PC,2023,Puzzle,Capcom,10.43,75,6.2,28,29.99,M,No,High (5-15M),1.3,2020
+G0555,Iron Fury 3,Nintendo Switch,2018,Racing,Take-Two,20.7,77,7.9,66,14.99,M,No,Blockbuster (15M+),-0.2,2010
+G0556,Neon Legacy 1,PlayStation,2018,Action,Epic Games,5.1,71,8.5,45,49.99,M,Yes,High (5-15M),-1.4,2010
+G0557,Storm Warriors 2,Nintendo Switch,2014,Action,Sony Interactive,6.62,74,6.9,16,49.99,E10+,No,High (5-15M),0.5,2010
+G0558,Dark Rivals 3,PlayStation,2013,Action,Valve,1.35,83,8.8,18,19.99,M,No,Medium (1-5M),-0.5,2010
+G0559,Pixel Strike 1,Xbox,2012,Strategy,Square Enix,1.3,74,7.9,13,69.99,T,No,Medium (1-5M),-0.5,2010
+G0560,Space Arena,PC,2025,Racing,Take-Two,1.53,91,8.8,21,14.99,T,No,Medium (1-5M),0.3,2020
+G0561,Battle Force,PlayStation,2023,Action,Electronic Arts,5.93,86,7.6,54,29.99,E,No,High (5-15M),1.0,2020
+G0562,Storm Worlds 1,PC,2017,RPG,Square Enix,1.71,90,8.6,14,29.99,T,Yes,Medium (1-5M),0.4,2010
+G0563,Shadow Empire 2,Nintendo Switch,2012,Racing,Electronic Arts,3.12,76,6.9,8,14.99,E,Yes,Medium (1-5M),0.7,2010
+G0564,Final Horizon 2,Mobile,2023,Strategy,Square Enix,5.36,65,7.1,35,49.99,M,Yes,High (5-15M),-0.6,2020
+G0565,Epic Warriors,PC,2022,Racing,Take-Two,2.28,74,7.7,26,69.99,T,No,Medium (1-5M),-0.3,2020
+G0566,Final Chronicles 3,Xbox,2015,Puzzle,Capcom,0.58,71,4.8,7,39.99,E10+,Yes,Low (<1M),2.3,2010
+G0567,Iron Rivals 1,Nintendo Switch,2023,Sports,Sony Interactive,6.68,71,7.0,46,39.99,E,Yes,High (5-15M),0.1,2020
+G0568,Legend Rivals,Xbox,2014,Sports,Bandai Namco,7.51,67,7.9,12,49.99,T,Yes,High (5-15M),-1.2,2010
+G0569,Epic Force 2,PlayStation,2022,Sports,Square Enix,16.39,71,7.4,31,19.99,M,Yes,Blockbuster (15M+),-0.3,2020
+G0570,Mega Rivals 2,PlayStation,2017,Fighting,Microsoft,9.06,74,7.0,18,59.99,E10+,Yes,High (5-15M),0.4,2010
+G0571,Shadow Age,PlayStation,2020,Sports,Take-Two,4.94,93,9.0,30,9.99,E10+,Yes,Medium (1-5M),0.3,2020
+G0572,Ancient Legacy 2,Mobile,2019,Action,Capcom,8.44,55,5.4,26,59.99,T,No,High (5-15M),0.1,2010
+G0573,Ultra Legacy 1,PlayStation,2020,Shooter,Sega,6.81,61,6.6,124,69.99,T,Yes,High (5-15M),-0.5,2020
+G0574,Epic Arena,Nintendo Switch,2018,Shooter,Sega,0.58,65,5.1,80,9.99,E10+,Yes,Low (<1M),1.4,2010
+G0575,Eternal Fury,Mobile,2021,Racing,Activision,1.64,74,7.9,34,49.99,M,No,Medium (1-5M),-0.5,2020
+G0576,Dragon Worlds 2,PlayStation,2019,Fighting,Square Enix,1.27,74,6.7,145,39.99,E,Yes,Medium (1-5M),0.7,2010
+G0577,Pixel Fury 2,Mobile,2022,Sports,Take-Two,2.17,64,6.2,19,19.99,E10+,Yes,Medium (1-5M),0.2,2020
+G0578,Dark Worlds 3,PlayStation,2018,Fighting,Sega,2.03,81,7.8,13,9.99,E,No,Medium (1-5M),0.3,2010
+G0579,Lost Odyssey 2,Mobile,2018,Strategy,Activision,2.29,75,7.6,33,49.99,T,Yes,Medium (1-5M),-0.1,2010
+G0580,Iron Chronicles 1,Xbox,2020,Simulation,Epic Games,8.66,90,9.2,23,49.99,M,No,High (5-15M),-0.2,2020
+G0581,Ancient Souls 3,PC,2019,Strategy,Bandai Namco,2.35,80,7.4,14,19.99,M,No,Medium (1-5M),0.6,2010
+G0582,Storm Quest 1,PC,2013,Sports,Activision,5.2,75,5.7,39,39.99,M,No,High (5-15M),1.8,2010
+G0583,Space Strike 2,PC,2021,Racing,Valve,1.71,87,6.9,22,19.99,E,Yes,Medium (1-5M),1.8,2020
+G0584,Legend Empire 1,PC,2015,Shooter,Sony Interactive,6.14,85,7.0,78,49.99,E,No,High (5-15M),1.5,2010
+G0585,Super Strike,Xbox,2018,Action,Capcom,6.18,93,8.0,21,49.99,M,No,High (5-15M),1.3,2010
+G0586,Mega Strike 2,PlayStation,2019,Action,Square Enix,45.0,74,4.8,26,29.99,T,Yes,Blockbuster (15M+),2.6,2010
+G0587,Iron Empire 1,PlayStation,2025,Adventure,Square Enix,12.98,92,7.0,18,59.99,E,No,High (5-15M),2.2,2020
+G0588,Rising Chronicles,PlayStation,2016,Fighting,Capcom,0.24,98,9.8,16,59.99,M,Yes,Low (<1M),0.0,2010
+G0589,Pixel Odyssey,Xbox,2016,Action,Microsoft,6.38,98,9.8,82,29.99,E10+,Yes,High (5-15M),0.0,2010
+G0590,Pixel Empire 3,Xbox,2014,Shooter,Sega,2.88,71,7.8,14,29.99,M,No,Medium (1-5M),-0.7,2010
+G0591,Battle Souls,Mobile,2019,Fighting,Square Enix,38.73,63,5.5,8,49.99,E10+,No,Blockbuster (15M+),0.8,2010
+G0592,Rising Legacy,PC,2022,Racing,Bandai Namco,10.34,79,6.8,16,19.99,E10+,Yes,High (5-15M),1.1,2020
+G0593,Dragon Chronicles 1,PC,2022,RPG,Electronic Arts,0.91,98,9.8,14,59.99,M,Yes,Low (<1M),0.0,2020
+G0594,Dragon Fury 2,PC,2025,Strategy,Electronic Arts,10.99,78,9.1,60,39.99,M,Yes,High (5-15M),-1.3,2020
+G0595,Ultra Age 3,Nintendo Switch,2022,Adventure,Activision,3.87,69,4.7,40,19.99,T,Yes,Medium (1-5M),2.2,2020
+G0596,Epic Legacy,Nintendo Switch,2023,Strategy,Sega,5.18,90,9.4,57,29.99,M,Yes,High (5-15M),-0.4,2020
+G0597,Lost Legacy,Xbox,2015,Shooter,Epic Games,2.83,51,6.4,36,59.99,E,Yes,Medium (1-5M),-1.3,2010
+G0598,Super Odyssey,Nintendo Switch,2022,Racing,Take-Two,1.55,71,5.6,19,19.99,M,Yes,Medium (1-5M),1.5,2020
+G0599,Cyber Tactics 1,PlayStation,2012,Simulation,Sega,14.38,75,7.1,24,9.99,E10+,Yes,High (5-15M),0.4,2010
+G0600,Rising Souls 3,Xbox,2024,Racing,Ubisoft,3.25,85,8.5,16,49.99,T,No,Medium (1-5M),0.0,2020
+G0601,Dragon Age 3,Nintendo Switch,2020,Strategy,Valve,2.02,78,9.6,35,14.99,M,Yes,Medium (1-5M),-1.8,2020
+G0602,Neon Legacy 3,Mobile,2020,Adventure,Valve,4.48,66,5.8,27,69.99,T,No,Medium (1-5M),0.8,2020
+G0603,Storm Empire 1,Xbox,2019,Shooter,Sega,4.81,51,5.8,32,14.99,E,Yes,Medium (1-5M),-0.7,2010
+G0604,Super Souls 1,PC,2012,Shooter,Take-Two,45.0,87,7.9,8,49.99,M,No,Blockbuster (15M+),0.8,2010
+G0605,Storm Age 2,PlayStation,2021,Shooter,Microsoft,1.84,84,7.8,19,14.99,T,No,Medium (1-5M),0.6,2020
+G0606,Final Tactics,PlayStation,2012,RPG,Capcom,0.71,64,7.0,14,9.99,E,No,Low (<1M),-0.6,2010
+G0607,Cyber Empire,PC,2015,Sports,Nintendo,3.07,96,9.7,24,69.99,E10+,No,Medium (1-5M),-0.1,2010
+G0608,Dark Age 3,PC,2023,Adventure,Electronic Arts,8.94,72,6.9,13,59.99,M,Yes,High (5-15M),0.3,2020
+G0609,Dark Empire 1,Xbox,2016,RPG,Epic Games,2.92,58,7.2,11,9.99,E10+,No,Medium (1-5M),-1.4,2010
+G0610,Space Raid 1,Nintendo Switch,2012,Fighting,Microsoft,11.04,56,5.7,20,49.99,E,No,High (5-15M),-0.1,2010
+G0611,Rising Odyssey 1,PC,2020,Puzzle,Nintendo,1.63,55,5.4,10,69.99,T,Yes,Medium (1-5M),0.1,2020
+G0612,Dark Arena,PlayStation,2019,Shooter,Epic Games,1.24,70,7.2,15,19.99,M,Yes,Medium (1-5M),-0.2,2010
+G0613,Lost Empire 1,PlayStation,2021,RPG,Epic Games,5.8,88,8.6,109,39.99,M,No,High (5-15M),0.2,2020
+G0614,Dark Warriors 1,PC,2019,Sports,Sega,4.25,90,9.8,21,59.99,T,No,Medium (1-5M),-0.8,2010
+G0615,Super Force,PlayStation,2015,Strategy,Electronic Arts,2.41,88,7.5,71,49.99,T,No,Medium (1-5M),1.3,2010
+G0616,Super Force 3,Nintendo Switch,2022,Action,Sony Interactive,45.0,81,6.6,14,49.99,M,No,Blockbuster (15M+),1.5,2020
+G0617,Rising Tactics 2,PC,2019,Sports,Activision,1.85,73,5.4,55,49.99,E10+,No,Medium (1-5M),1.9,2010
+G0618,Legend Arena,PC,2012,Shooter,Electronic Arts,2.28,83,8.8,23,49.99,E10+,Yes,Medium (1-5M),-0.5,2010
+G0619,Dragon Age,PlayStation,2017,RPG,Electronic Arts,4.25,86,8.8,30,59.99,E10+,Yes,Medium (1-5M),-0.2,2010
+G0620,Eternal Warriors 1,Xbox,2025,Action,Square Enix,2.98,83,7.7,11,29.99,E,No,Medium (1-5M),0.6,2020
+G0621,Storm Tactics 2,Xbox,2020,Sports,Capcom,2.24,84,7.3,4,14.99,E,No,Medium (1-5M),1.1,2020
+G0622,Lost Odyssey,PC,2017,Adventure,Microsoft,4.24,82,8.4,29,29.99,T,Yes,Medium (1-5M),-0.2,2010
+G0623,Space Tactics 3,Nintendo Switch,2018,Adventure,Activision,0.85,55,4.6,15,19.99,M,Yes,Low (<1M),0.9,2010
+G0624,Neon Dawn,PlayStation,2016,Adventure,Capcom,3.2,78,6.8,52,59.99,T,Yes,Medium (1-5M),1.0,2010
+G0625,Final Force 1,Xbox,2015,Action,Electronic Arts,2.21,83,7.4,107,59.99,M,No,Medium (1-5M),0.9,2010
+G0626,Ultra Odyssey 2,Nintendo Switch,2020,Action,Valve,5.96,98,9.7,17,49.99,M,Yes,High (5-15M),0.1,2020
+G0627,Eternal Strike 3,Nintendo Switch,2020,Sports,Activision,0.56,71,7.6,22,39.99,T,Yes,Low (<1M),-0.5,2020
+G0628,Cyber Age 2,PC,2023,Sports,Bandai Namco,5.67,62,5.9,16,14.99,E,Yes,High (5-15M),0.3,2020
+G0629,Super Empire,Xbox,2016,Sports,Sega,2.74,74,6.6,8,39.99,E10+,Yes,Medium (1-5M),0.8,2010
+G0630,Dragon Dawn 3,PlayStation,2017,Shooter,Sega,6.91,80,7.4,13,39.99,M,Yes,High (5-15M),0.6,2010
+G0631,Ultra Strike 1,Nintendo Switch,2019,Adventure,Valve,0.68,82,8.3,19,29.99,T,No,Low (<1M),-0.1,2010
+G0632,Dragon Age 1,PC,2015,RPG,Sony Interactive,5.81,69,7.3,27,14.99,T,No,High (5-15M),-0.4,2010
+G0633,Ultra Odyssey,PlayStation,2017,RPG,Electronic Arts,1.3,72,7.2,28,39.99,T,No,Medium (1-5M),0.0,2010
+G0634,Eternal Quest 2,Mobile,2024,Action,Capcom,10.39,88,9.8,12,9.99,T,No,High (5-15M),-1.0,2020
+G0635,Eternal Dawn 1,PlayStation,2016,Fighting,Electronic Arts,13.13,58,4.9,12,49.99,T,No,High (5-15M),0.9,2010
+G0636,Final Force 3,Xbox,2020,RPG,Sony Interactive,3.82,75,7.2,53,29.99,T,No,Medium (1-5M),0.3,2020
+G0637,Dragon Warriors 1,Nintendo Switch,2021,Action,Square Enix,16.54,67,5.8,20,69.99,T,No,Blockbuster (15M+),0.9,2020
+G0638,Neon Chronicles 2,PlayStation,2015,RPG,Valve,3.46,64,3.8,6,39.99,E,Yes,Medium (1-5M),2.6,2010
+G0639,Cyber Rivals 1,Mobile,2022,Adventure,Capcom,9.17,83,8.1,26,19.99,E10+,No,High (5-15M),0.2,2020
+G0640,Epic Empire,Xbox,2021,Adventure,Take-Two,1.26,74,6.6,8,29.99,M,No,Medium (1-5M),0.8,2020
+G0641,Eternal Legacy 1,PC,2019,Adventure,Microsoft,5.26,61,7.2,35,59.99,M,No,High (5-15M),-1.1,2010
+G0642,Legend Empire 3,PC,2024,Adventure,Sega,3.74,81,7.8,21,9.99,T,Yes,Medium (1-5M),0.3,2020
+G0643,Space Strike,Xbox,2018,Sports,Sega,19.64,83,9.8,8,14.99,E10+,Yes,Blockbuster (15M+),-1.5,2010
+G0644,Ancient Legacy 1,Mobile,2022,Simulation,Sega,0.77,66,7.1,16,29.99,E10+,No,Low (<1M),-0.5,2020
+G0645,Iron Arena 1,PC,2015,Action,Sega,5.51,73,6.9,25,29.99,M,Yes,High (5-15M),0.4,2010
+G0646,Mega Raid 2,Nintendo Switch,2012,Action,Microsoft,4.69,86,8.5,29,59.99,M,No,Medium (1-5M),0.1,2010
+G0647,Epic Dawn 3,Mobile,2017,RPG,Capcom,5.28,67,7.1,28,49.99,E10+,No,High (5-15M),-0.4,2010
+G0648,Eternal Dawn,Xbox,2025,Simulation,Nintendo,19.6,60,5.6,21,49.99,T,Yes,Blockbuster (15M+),0.4,2020
+G0649,Storm Empire 3,PlayStation,2012,Action,Epic Games,2.83,71,6.2,97,59.99,E10+,No,Medium (1-5M),0.9,2010
+G0650,Epic Tactics 3,Xbox,2025,Sports,Activision,2.03,66,5.7,37,39.99,E10+,No,Medium (1-5M),0.9,2020
+G0651,Rising Fury 2,PlayStation,2025,Puzzle,Sony Interactive,12.15,58,6.0,25,29.99,T,No,High (5-15M),-0.2,2020
+G0652,Mega Chronicles 1,PC,2020,Sports,Microsoft,32.18,70,6.6,33,9.99,T,No,Blockbuster (15M+),0.4,2020
+G0653,Lost Warriors 3,Nintendo Switch,2021,Adventure,Electronic Arts,5.79,82,9.4,5,59.99,T,Yes,High (5-15M),-1.2,2020
+G0654,Legend Age 1,Xbox,2024,Sports,Epic Games,12.85,91,9.0,13,14.99,E,No,High (5-15M),0.1,2020
+G0655,Iron Quest,Xbox,2020,RPG,Activision,1.26,70,6.7,29,49.99,E10+,Yes,Medium (1-5M),0.3,2020
+G0656,Epic Tactics 1,PC,2018,Puzzle,Bandai Namco,5.37,59,6.9,32,49.99,E,Yes,High (5-15M),-1.0,2010
+G0657,Ancient Arena 1,PC,2012,Racing,Valve,0.45,91,7.8,16,49.99,M,Yes,Low (<1M),1.3,2010
+G0658,Storm Horizon 3,PlayStation,2018,Shooter,Bandai Namco,11.92,67,8.7,12,29.99,E,Yes,High (5-15M),-2.0,2010
+G0659,Shadow Legacy 2,PC,2016,Racing,Nintendo,0.8,52,3.1,17,14.99,E10+,No,Low (<1M),2.1,2010
+G0660,Super Age,PC,2014,Racing,Sony Interactive,15.0,70,6.8,57,59.99,E,Yes,High (5-15M),0.2,2010
+G0661,Neon Chronicles 3,Nintendo Switch,2012,Fighting,Ubisoft,0.74,88,8.9,84,19.99,T,Yes,Low (<1M),-0.1,2010
+G0662,Rising Rivals 2,PlayStation,2014,Shooter,Microsoft,15.88,77,6.3,17,19.99,T,Yes,Blockbuster (15M+),1.4,2010
+G0663,Super Age 3,PlayStation,2012,Fighting,Bandai Namco,4.6,75,7.6,45,19.99,E10+,Yes,Medium (1-5M),-0.1,2010
+G0664,Epic Force 3,Xbox,2012,Action,Bandai Namco,3.39,74,6.8,28,49.99,E10+,No,Medium (1-5M),0.6,2010
+G0665,Iron Force 3,Mobile,2024,Simulation,Valve,1.43,80,7.0,15,39.99,T,No,Medium (1-5M),1.0,2020
+G0666,Pixel Rivals,PlayStation,2015,Puzzle,Ubisoft,2.05,82,7.0,43,59.99,T,Yes,Medium (1-5M),1.2,2010
+G0667,Cyber Age 1,PlayStation,2019,Adventure,Sega,15.21,78,6.7,14,49.99,E,Yes,Blockbuster (15M+),1.1,2010
+G0668,Pixel Arena,PlayStation,2019,Sports,Ubisoft,16.0,55,6.2,116,49.99,E10+,Yes,Blockbuster (15M+),-0.7,2010
+G0669,Super Force 2,PC,2022,Action,Electronic Arts,9.39,84,7.6,55,29.99,E10+,Yes,High (5-15M),0.8,2020
+G0670,Rising Raid 2,Xbox,2021,Action,Capcom,2.26,83,8.4,44,59.99,E10+,No,Medium (1-5M),-0.1,2020
+G0671,Mega Fury 1,Xbox,2024,Sports,Capcom,3.97,57,6.5,26,49.99,T,Yes,Medium (1-5M),-0.8,2020
+G0672,Ultra Age 1,PlayStation,2023,Racing,Epic Games,10.15,48,4.9,15,9.99,E,No,High (5-15M),-0.1,2020
+G0673,Mega Worlds,Mobile,2015,Racing,Electronic Arts,1.11,93,9.8,32,29.99,T,No,Medium (1-5M),-0.5,2010
+G0674,Storm Arena 3,PC,2018,Action,Sony Interactive,8.58,77,6.6,35,39.99,M,Yes,High (5-15M),1.1,2010
+G0675,Ultra Worlds 1,PC,2017,Racing,Capcom,1.76,61,4.7,16,29.99,E10+,No,Medium (1-5M),1.4,2010
+G0676,Iron Fury 1,PlayStation,2019,Puzzle,Square Enix,1.14,76,7.4,96,49.99,M,Yes,Medium (1-5M),0.2,2010
+G0677,Storm Legacy 2,Nintendo Switch,2015,Fighting,Bandai Namco,0.55,85,8.1,20,39.99,E,Yes,Low (<1M),0.4,2010
+G0678,Rising Dawn 2,PlayStation,2013,Sports,Take-Two,1.87,67,6.5,96,19.99,E10+,No,Medium (1-5M),0.2,2010
+G0679,Iron Arena 2,PC,2017,Action,Epic Games,9.07,82,8.6,48,49.99,T,No,High (5-15M),-0.4,2010
+G0680,Rising Raid 3,Xbox,2016,Action,Sony Interactive,0.37,74,7.8,9,49.99,M,Yes,Low (<1M),-0.4,2010
+G0681,Battle Strike 3,PlayStation,2025,Strategy,Square Enix,33.3,98,9.8,34,69.99,E,Yes,Blockbuster (15M+),0.0,2020
+G0682,Rising Empire 3,PlayStation,2014,Fighting,Square Enix,4.13,94,8.5,16,39.99,T,No,Medium (1-5M),0.9,2010
+G0683,Shadow Souls 1,PC,2014,Strategy,Nintendo,1.2,76,8.3,22,59.99,E10+,No,Medium (1-5M),-0.7,2010
+G0684,Pixel Fury 1,PC,2018,Action,Square Enix,26.08,77,8.4,26,9.99,E10+,Yes,Blockbuster (15M+),-0.7,2010
+G0685,Legend Chronicles 1,PC,2016,Sports,Take-Two,4.88,73,7.6,26,9.99,T,No,Medium (1-5M),-0.3,2010
+G0686,Dragon Odyssey,PC,2022,Action,Electronic Arts,5.91,82,7.0,26,9.99,M,Yes,High (5-15M),1.2,2020
+G0687,Legend Strike 1,Mobile,2022,Shooter,Activision,2.6,76,6.4,31,49.99,E10+,No,Medium (1-5M),1.2,2020
+G0688,Ancient Chronicles 3,PC,2023,Shooter,Bandai Namco,17.16,58,5.9,13,14.99,E10+,Yes,Blockbuster (15M+),-0.1,2020
+G0689,Rising Dawn 1,PC,2024,Strategy,Ubisoft,3.7,75,6.6,28,29.99,T,No,Medium (1-5M),0.9,2020
+G0690,Pixel Legacy,PC,2018,Shooter,Activision,6.62,67,7.9,25,19.99,E10+,Yes,High (5-15M),-1.2,2010
+G0691,Epic Fury 3,PlayStation,2018,Action,Activision,11.98,72,5.8,45,49.99,E10+,Yes,High (5-15M),1.4,2010
+G0692,Rising Empire 2,Nintendo Switch,2024,RPG,Bandai Namco,1.72,93,9.5,27,19.99,E,No,Medium (1-5M),-0.2,2020
+G0693,Eternal Fury 3,PC,2012,Racing,Square Enix,31.86,67,5.6,8,69.99,E10+,No,Blockbuster (15M+),1.1,2010
+G0694,Battle Souls 1,PC,2018,Simulation,Electronic Arts,2.38,98,7.8,15,39.99,T,No,Medium (1-5M),2.0,2010
+G0695,Final Worlds,Xbox,2013,Action,Electronic Arts,30.73,78,8.4,27,59.99,E,Yes,Blockbuster (15M+),-0.6,2010
+G0696,Iron Arena 3,PlayStation,2015,RPG,Ubisoft,45.0,78,7.4,58,29.99,E10+,No,Blockbuster (15M+),0.4,2010
+G0697,Lost Tactics 3,Xbox,2024,Action,Activision,1.22,82,7.9,59,14.99,T,Yes,Medium (1-5M),0.3,2020
+G0698,Neon Arena 2,Nintendo Switch,2018,Racing,Sega,0.42,91,7.9,17,29.99,M,Yes,Low (<1M),1.2,2010
+G0699,Cyber Worlds 1,Nintendo Switch,2018,Shooter,Capcom,13.39,54,3.9,19,29.99,E10+,No,High (5-15M),1.5,2010
+G0700,Neon Odyssey 3,PlayStation,2014,Action,Bandai Namco,3.1,80,6.4,12,29.99,E,No,Medium (1-5M),1.6,2010
+G0701,Ultra Force 2,PlayStation,2017,Simulation,Activision,6.93,83,6.6,23,59.99,T,Yes,High (5-15M),1.7,2010
+G0702,Dragon Quest 2,Nintendo Switch,2023,Adventure,Electronic Arts,2.31,89,9.4,24,29.99,T,Yes,Medium (1-5M),-0.5,2020
+G0703,Epic Rivals 3,PC,2024,Action,Sega,38.14,61,5.1,36,9.99,M,Yes,Blockbuster (15M+),1.0,2020
+G0704,Cyber Souls,Nintendo Switch,2019,Simulation,Electronic Arts,4.44,68,6.4,16,14.99,E10+,No,Medium (1-5M),0.4,2010
+G0705,Eternal Rivals 1,PC,2021,Fighting,Microsoft,1.39,70,7.8,42,59.99,E10+,No,Medium (1-5M),-0.8,2020
+G0706,Dark Force,Xbox,2019,Action,Microsoft,4.68,85,9.0,34,14.99,E,No,Medium (1-5M),-0.5,2010
+G0707,Storm Arena 1,PC,2015,RPG,Bandai Namco,12.62,93,8.8,19,9.99,E,No,High (5-15M),0.5,2010
+G0708,Super Dawn,PlayStation,2020,RPG,Sega,15.48,66,7.4,38,29.99,E10+,No,Blockbuster (15M+),-0.8,2020
+G0709,Final Raid,Nintendo Switch,2024,RPG,Microsoft,1.88,78,8.0,29,39.99,T,No,Medium (1-5M),-0.2,2020
+G0710,Lost Souls 1,PC,2018,Shooter,Capcom,14.8,84,7.3,9,69.99,E,Yes,High (5-15M),1.1,2010
+G0711,Space Legacy 2,Nintendo Switch,2013,Action,Square Enix,2.75,75,7.9,33,29.99,T,Yes,Medium (1-5M),-0.4,2010
+G0712,Storm Worlds 2,Nintendo Switch,2017,RPG,Sega,1.64,82,7.3,10,39.99,T,No,Medium (1-5M),0.9,2010
+G0713,Storm Souls 1,PC,2024,Adventure,Square Enix,0.76,91,9.1,29,59.99,M,Yes,Low (<1M),0.0,2020
+G0714,Shadow Odyssey,PlayStation,2018,Simulation,Electronic Arts,8.81,73,7.6,37,19.99,T,No,High (5-15M),-0.3,2010
+G0715,Mega Legacy 3,PC,2020,Sports,Valve,15.62,81,6.9,17,49.99,E10+,No,Blockbuster (15M+),1.2,2020
+G0716,Neon Souls 2,PlayStation,2022,Action,Sony Interactive,0.63,71,8.5,8,29.99,E10+,No,Low (<1M),-1.4,2020
+G0717,Ancient Worlds 2,Nintendo Switch,2017,Racing,Sega,15.32,95,9.0,4,29.99,E,Yes,Blockbuster (15M+),0.5,2010
+G0718,Storm Chronicles 2,Xbox,2014,Action,Electronic Arts,14.68,70,6.1,14,29.99,E10+,No,High (5-15M),0.9,2010
+G0719,Ancient Warriors 1,PlayStation,2014,Action,Nintendo,28.08,67,6.2,17,49.99,M,Yes,Blockbuster (15M+),0.5,2010
+G0720,Battle Worlds,Mobile,2021,Puzzle,Activision,0.87,70,7.9,49,14.99,M,Yes,Low (<1M),-0.9,2020
+G0721,Cyber Warriors 3,PlayStation,2013,Sports,Take-Two,11.46,67,7.5,33,69.99,T,No,High (5-15M),-0.8,2010
+G0722,Battle Legacy 2,PlayStation,2025,Action,Bandai Namco,13.57,68,6.5,17,39.99,T,No,High (5-15M),0.3,2020
+G0723,Dark Legacy 3,PC,2022,Strategy,Nintendo,22.75,85,9.0,20,29.99,E10+,Yes,Blockbuster (15M+),-0.5,2020
+G0724,Lost Rivals,Xbox,2017,Shooter,Epic Games,3.34,80,7.9,7,49.99,E,No,Medium (1-5M),0.1,2010
+G0725,Shadow Age 2,PC,2021,Strategy,Ubisoft,0.88,53,4.8,12,39.99,E10+,Yes,Low (<1M),0.5,2020
+G0726,Ancient Warriors 2,Xbox,2014,Action,Bandai Namco,7.63,68,6.4,66,19.99,T,Yes,High (5-15M),0.4,2010
+G0727,Neon Tactics 2,Xbox,2016,Adventure,Square Enix,2.05,66,6.3,41,29.99,M,Yes,Medium (1-5M),0.3,2010
+G0728,Epic Tactics,PC,2012,RPG,Microsoft,16.65,59,6.1,7,9.99,E,Yes,Blockbuster (15M+),-0.2,2010
+G0729,Dragon Tactics 2,PlayStation,2016,Fighting,Sega,2.23,69,6.5,19,14.99,E,No,Medium (1-5M),0.4,2010
+G0730,Lost Fury 3,PlayStation,2012,Action,Nintendo,7.65,66,5.9,15,29.99,E,No,High (5-15M),0.7,2010
+G0731,Storm Legacy 1,Nintendo Switch,2022,Puzzle,Microsoft,0.42,77,7.3,12,19.99,M,Yes,Low (<1M),0.4,2020
+G0732,Neon Tactics 1,PC,2013,Action,Ubisoft,18.72,84,9.6,17,29.99,T,Yes,Blockbuster (15M+),-1.2,2010
+G0733,Cyber Arena 2,Nintendo Switch,2023,RPG,Valve,1.84,81,7.5,13,19.99,T,No,Medium (1-5M),0.6,2020
+G0734,Iron Rivals 3,PC,2014,Fighting,Sega,0.95,91,9.8,45,29.99,E,Yes,Low (<1M),-0.7,2010
+G0735,Legend Quest 3,PlayStation,2021,Shooter,Activision,1.69,78,8.2,37,49.99,E,No,Medium (1-5M),-0.4,2020
+G0736,Ultra Warriors 1,Nintendo Switch,2016,Racing,Sega,16.09,70,6.7,13,59.99,M,No,Blockbuster (15M+),0.3,2010
+G0737,Legend Warriors 1,PC,2024,Racing,Take-Two,34.78,40,3.3,19,39.99,M,No,Blockbuster (15M+),0.7,2020
+G0738,Iron Dawn 2,Nintendo Switch,2018,Strategy,Sega,2.72,81,7.4,11,39.99,T,Yes,Medium (1-5M),0.7,2010
+G0739,Final Age 1,Xbox,2016,Racing,Nintendo,2.45,58,5.6,11,29.99,E10+,Yes,Medium (1-5M),0.2,2010
+G0740,Iron Warriors 3,Xbox,2021,RPG,Epic Games,9.8,78,7.4,13,69.99,M,No,High (5-15M),0.4,2020
+G0741,Ultra Quest 2,Nintendo Switch,2014,Strategy,Epic Games,3.06,85,7.9,50,9.99,T,No,Medium (1-5M),0.6,2010
+G0742,Final Raid 2,Mobile,2012,Racing,Take-Two,0.35,59,6.0,72,29.99,E,Yes,Low (<1M),-0.1,2010
+G0743,Eternal Strike 1,PlayStation,2013,Shooter,Bandai Namco,9.27,62,5.5,38,39.99,M,Yes,High (5-15M),0.7,2010
+G0744,Epic Rivals 2,PC,2018,Shooter,Bandai Namco,13.03,82,8.5,77,29.99,M,No,High (5-15M),-0.3,2010
+G0745,Dragon Fury 1,Mobile,2024,Sports,Bandai Namco,0.33,96,9.3,7,29.99,E10+,No,Low (<1M),0.3,2020
+G0746,Pixel Raid 1,PlayStation,2023,RPG,Sega,32.83,78,7.7,11,19.99,E10+,Yes,Blockbuster (15M+),0.1,2020
+G0747,Lost Age 2,PC,2014,Action,Epic Games,3.5,69,6.1,26,59.99,M,Yes,Medium (1-5M),0.8,2010
+G0748,Ultra Empire 2,PC,2022,Sports,Nintendo,0.74,66,6.8,11,29.99,E,No,Low (<1M),-0.2,2020
+G0749,Lost Force 1,Nintendo Switch,2025,Shooter,Electronic Arts,10.25,87,8.7,15,29.99,M,Yes,High (5-15M),0.0,2020
+G0750,Eternal Age 3,PlayStation,2012,Shooter,Square Enix,13.77,87,8.6,75,49.99,M,Yes,High (5-15M),0.1,2010
+G0751,Lost Legacy 3,Xbox,2014,RPG,Microsoft,5.75,79,7.8,100,49.99,E,Yes,High (5-15M),0.1,2010
+G0752,Legend Rivals 3,PC,2019,Sports,Nintendo,10.23,83,8.0,13,19.99,E,No,High (5-15M),0.3,2010
+G0753,Shadow Chronicles 1,PlayStation,2024,Action,Epic Games,2.14,59,4.7,21,9.99,M,No,Medium (1-5M),1.2,2020
+G0754,Battle Tactics 3,Mobile,2017,Shooter,Bandai Namco,13.19,82,7.7,13,69.99,M,No,High (5-15M),0.5,2010
+G0755,Rising Legacy 2,Nintendo Switch,2018,Sports,Sony Interactive,2.47,60,4.3,22,29.99,E,No,Medium (1-5M),1.7,2010
+G0756,Space Raid 3,Xbox,2018,Strategy,Sega,27.47,72,5.0,38,39.99,M,Yes,Blockbuster (15M+),2.2,2010
+G0757,Cyber Legacy,PlayStation,2016,RPG,Capcom,3.84,70,7.4,58,49.99,E,No,Medium (1-5M),-0.4,2010
+G0758,Epic Chronicles 2,PlayStation,2015,Shooter,Take-Two,2.22,71,6.0,85,29.99,T,Yes,Medium (1-5M),1.1,2010
+G0759,Mega Age 3,Nintendo Switch,2024,Shooter,Capcom,12.12,77,9.7,11,59.99,M,Yes,High (5-15M),-2.0,2020
+G0760,Storm Fury 1,PlayStation,2017,Adventure,Nintendo,2.06,63,7.0,10,19.99,E10+,Yes,Medium (1-5M),-0.7,2010
+G0761,Neon Empire 3,PC,2012,RPG,Electronic Arts,15.41,72,7.0,75,49.99,M,Yes,Blockbuster (15M+),0.2,2010
+G0762,Storm Arena 2,Mobile,2022,RPG,Bandai Namco,32.61,98,9.7,5,49.99,E10+,No,Blockbuster (15M+),0.1,2020
+G0763,Neon Quest 1,PC,2023,Simulation,Capcom,26.59,64,6.7,9,59.99,E10+,No,Blockbuster (15M+),-0.3,2020
+G0764,Pixel Arena 1,PC,2025,Puzzle,Square Enix,45.0,76,7.5,25,49.99,M,No,Blockbuster (15M+),0.1,2020
+G0765,Mega Rivals 3,PC,2019,RPG,Activision,0.82,71,6.9,47,69.99,M,No,Low (<1M),0.2,2010
+G0766,Final Souls 2,PlayStation,2022,Puzzle,Sega,3.5,88,7.7,13,39.99,E10+,Yes,Medium (1-5M),1.1,2020
+G0767,Dark Warriors 2,Xbox,2023,Action,Sony Interactive,3.28,58,5.9,8,29.99,E10+,No,Medium (1-5M),-0.1,2020
+G0768,Rising Empire,PC,2024,Adventure,Ubisoft,0.48,56,5.3,16,39.99,T,No,Low (<1M),0.3,2020
+G0769,Final Quest 2,PC,2025,Adventure,Activision,0.81,73,6.9,18,14.99,T,No,Low (<1M),0.4,2020
+G0770,Pixel Odyssey 1,PC,2024,Action,Epic Games,8.35,59,6.3,7,29.99,E,Yes,High (5-15M),-0.4,2020
+G0771,Pixel Strike 3,PlayStation,2019,Adventure,Electronic Arts,45.0,79,7.7,34,39.99,T,No,Blockbuster (15M+),0.2,2010
+G0772,Super Arena 3,PlayStation,2020,Simulation,Electronic Arts,4.94,53,5.0,80,9.99,T,No,Medium (1-5M),0.3,2020
+G0773,Dragon Arena 1,Xbox,2016,RPG,Activision,36.2,77,7.4,50,29.99,M,Yes,Blockbuster (15M+),0.3,2010
+G0774,Dragon Warriors 2,Nintendo Switch,2023,RPG,Activision,1.12,68,5.4,13,14.99,T,Yes,Medium (1-5M),1.4,2020
+G0775,Super Tactics 1,PlayStation,2018,Sports,Valve,1.35,72,5.5,16,14.99,E10+,Yes,Medium (1-5M),1.7,2010
+G0776,Iron Souls 2,PC,2020,Strategy,Nintendo,3.69,93,9.1,31,49.99,E,No,Medium (1-5M),0.2,2020
+G0777,Dark Warriors 3,PlayStation,2014,Simulation,Nintendo,20.09,65,7.5,16,14.99,M,Yes,Blockbuster (15M+),-1.0,2010
+G0778,Pixel Tactics 2,Xbox,2016,Adventure,Electronic Arts,8.84,74,7.1,57,9.99,T,No,High (5-15M),0.3,2010
+G0779,Battle Arena 2,PC,2025,RPG,Square Enix,2.63,88,8.0,49,14.99,E10+,No,Medium (1-5M),0.8,2020
+G0780,Legend Dawn 2,PC,2016,Action,Activision,10.42,77,7.0,81,29.99,E,No,High (5-15M),0.7,2010
+G0781,Neon Strike 1,PlayStation,2014,Action,Valve,4.65,53,4.8,54,49.99,E,Yes,Medium (1-5M),0.5,2010
+G0782,Battle Strike 2,PlayStation,2022,Adventure,Valve,19.94,85,6.8,52,39.99,E10+,Yes,Blockbuster (15M+),1.7,2020
+G0783,Lost Strike 1,PC,2019,Puzzle,Take-Two,2.44,82,6.8,55,29.99,E10+,Yes,Medium (1-5M),1.4,2010
+G0784,Lost Quest 1,Xbox,2025,RPG,Ubisoft,45.0,75,8.1,28,19.99,M,Yes,Blockbuster (15M+),-0.6,2020
+G0785,Ultra Age,Mobile,2013,Strategy,Capcom,1.89,76,6.9,200,14.99,M,Yes,Medium (1-5M),0.7,2010
+G0786,Epic Quest 1,PlayStation,2023,Puzzle,Capcom,0.85,70,7.1,36,49.99,T,No,Low (<1M),-0.1,2020
+G0787,Iron Worlds 1,PlayStation,2024,Adventure,Take-Two,21.78,84,7.9,21,59.99,T,Yes,Blockbuster (15M+),0.5,2020
+G0788,Battle Odyssey 3,Mobile,2024,Strategy,Electronic Arts,4.24,84,8.0,15,29.99,E,Yes,Medium (1-5M),0.4,2020
+G0789,Dark Arena 2,Nintendo Switch,2023,Adventure,Take-Two,4.14,98,7.9,30,14.99,E10+,Yes,Medium (1-5M),1.9,2020
+G0790,Rising Legacy 3,PlayStation,2025,RPG,Bandai Namco,16.16,98,9.8,30,19.99,E,No,Blockbuster (15M+),0.0,2020
+G0791,Eternal Worlds 3,Nintendo Switch,2012,Sports,Bandai Namco,9.76,98,9.6,18,49.99,E,No,High (5-15M),0.2,2010
+G0792,Ultra Arena 1,PC,2018,Shooter,Valve,3.86,62,5.5,30,19.99,E,No,Medium (1-5M),0.7,2010
+G0793,Dragon Tactics 3,Xbox,2012,Action,Ubisoft,2.96,65,5.7,43,19.99,M,No,Medium (1-5M),0.8,2010
+G0794,Shadow Dawn 1,PC,2025,Shooter,Bandai Namco,9.62,66,6.7,30,9.99,T,Yes,High (5-15M),-0.1,2020
+G0795,Dragon Worlds 3,Nintendo Switch,2022,RPG,Capcom,7.59,75,7.7,37,39.99,E,Yes,High (5-15M),-0.2,2020
+G0796,Rising Warriors,Xbox,2012,Shooter,Microsoft,3.73,64,4.6,37,49.99,T,Yes,Medium (1-5M),1.8,2010
+G0797,Space Arena 1,Xbox,2021,Strategy,Epic Games,0.69,90,9.4,35,49.99,T,No,Low (<1M),-0.4,2020
+G0798,Shadow Warriors 1,Xbox,2015,Shooter,Take-Two,1.82,76,8.1,5,9.99,E,Yes,Medium (1-5M),-0.5,2010
+G0799,Lost Arena 2,Nintendo Switch,2017,Racing,Electronic Arts,0.24,83,9.6,16,59.99,E,No,Low (<1M),-1.3,2010
+G0800,Cyber Raid,Xbox,2014,Shooter,Take-Two,13.31,81,7.9,12,14.99,M,No,High (5-15M),0.2,2010
+G0801,Final Strike 2,PlayStation,2024,Simulation,Take-Two,20.25,62,6.7,18,39.99,T,Yes,Blockbuster (15M+),-0.5,2020
+G0802,Mega Chronicles 3,Xbox,2021,Simulation,Electronic Arts,2.36,63,5.6,23,29.99,T,No,Medium (1-5M),0.7,2020
+G0803,Neon Horizon,Nintendo Switch,2018,Sports,Epic Games,3.06,71,7.3,26,59.99,E10+,Yes,Medium (1-5M),-0.2,2010
+G0804,Dragon Age 2,Mobile,2016,Adventure,Square Enix,1.86,90,6.1,32,19.99,T,Yes,Medium (1-5M),2.9,2010
+G0805,Space Warriors 2,Nintendo Switch,2022,Action,Bandai Namco,9.49,42,5.0,14,49.99,M,No,High (5-15M),-0.8,2020
+G0806,Eternal Strike 2,PlayStation,2024,Adventure,Ubisoft,3.14,93,9.6,65,59.99,M,Yes,Medium (1-5M),-0.3,2020
+G0807,Space Chronicles 2,PC,2016,RPG,Microsoft,13.88,77,7.3,11,59.99,M,No,High (5-15M),0.4,2010
+G0808,Ancient Quest 3,PlayStation,2014,Strategy,Take-Two,1.92,78,6.9,17,49.99,E10+,No,Medium (1-5M),0.9,2010
+G0809,Cyber Empire 1,PlayStation,2018,Puzzle,Activision,4.73,68,4.9,60,49.99,T,Yes,Medium (1-5M),1.9,2010
+G0810,Epic Horizon 1,PlayStation,2018,RPG,Bandai Namco,10.77,93,9.3,27,19.99,T,No,High (5-15M),0.0,2010
+G0811,Rising Warriors 3,PC,2023,Racing,Electronic Arts,3.68,91,8.3,56,59.99,T,No,Medium (1-5M),0.8,2020
+G0812,Dark Empire 3,PC,2017,Action,Activision,6.42,41,3.3,35,49.99,M,No,High (5-15M),0.8,2010
+G0813,Ultra Age 2,Xbox,2016,RPG,Capcom,1.38,94,9.3,40,49.99,E10+,No,Medium (1-5M),0.1,2010
+G0814,Space Souls 2,Nintendo Switch,2022,Simulation,Square Enix,1.37,62,6.5,17,9.99,E,Yes,Medium (1-5M),-0.3,2020
+G0815,Final Raid 3,PC,2014,Adventure,Square Enix,2.21,68,6.9,12,39.99,M,Yes,Medium (1-5M),-0.1,2010
+G0816,Iron Chronicles 2,Mobile,2015,RPG,Nintendo,16.01,76,6.1,22,49.99,T,Yes,Blockbuster (15M+),1.5,2010
+G0817,Legend Souls 2,PlayStation,2018,Sports,Nintendo,2.18,98,9.8,24,49.99,T,No,Medium (1-5M),0.0,2010
+G0818,Pixel Raid 2,PC,2014,Puzzle,Activision,9.55,74,7.2,13,39.99,E10+,No,High (5-15M),0.2,2010
+G0819,Lost Worlds 1,PlayStation,2017,Fighting,Valve,2.29,69,6.8,18,19.99,E,No,Medium (1-5M),0.1,2010
+G0820,Neon Raid 3,Xbox,2023,Action,Epic Games,1.5,88,9.4,51,49.99,T,No,Medium (1-5M),-0.6,2020
+G0821,Mega Quest 2,PlayStation,2016,Sports,Capcom,2.85,87,8.9,31,19.99,M,No,Medium (1-5M),-0.2,2010
+G0822,Epic Fury 2,Mobile,2019,RPG,Microsoft,10.74,65,4.7,14,14.99,M,No,High (5-15M),1.8,2010
+G0823,Space Warriors 3,Mobile,2021,Shooter,Ubisoft,6.35,50,3.8,72,49.99,E10+,Yes,High (5-15M),1.2,2020
+G0824,Legend Age 3,PC,2017,Shooter,Bandai Namco,20.03,74,7.4,49,39.99,T,No,Blockbuster (15M+),0.0,2010
+G0825,Dragon Empire 3,Mobile,2013,Strategy,Electronic Arts,6.56,75,7.0,17,39.99,M,No,High (5-15M),0.5,2010
+G0826,Space Legacy 3,PC,2021,Strategy,Ubisoft,1.85,80,6.7,13,29.99,T,Yes,Medium (1-5M),1.3,2020
+G0827,Cyber Force 3,PC,2019,Shooter,Electronic Arts,4.02,79,8.1,9,39.99,M,No,Medium (1-5M),-0.2,2010
+G0828,Final Warriors 1,Mobile,2014,Action,Take-Two,1.2,55,5.3,46,14.99,E10+,No,Medium (1-5M),0.2,2010
+G0829,Pixel Warriors 3,Xbox,2017,Adventure,Epic Games,5.57,97,9.8,37,9.99,M,No,High (5-15M),-0.1,2010
+G0830,Shadow Chronicles,Xbox,2014,Simulation,Epic Games,8.42,69,7.0,33,14.99,M,No,High (5-15M),-0.1,2010
+G0831,Neon Raid 1,Nintendo Switch,2017,Shooter,Sony Interactive,2.18,63,8.6,35,49.99,M,No,Medium (1-5M),-2.3,2010
+G0832,Rising Fury 3,PC,2019,Strategy,Bandai Namco,3.5,92,9.8,43,59.99,E,Yes,Medium (1-5M),-0.6,2010
+G0833,Ancient Chronicles 2,Mobile,2018,Adventure,Electronic Arts,1.91,75,7.3,28,49.99,E10+,Yes,Medium (1-5M),0.2,2010
+G0834,Rising Arena,Xbox,2020,Shooter,Epic Games,1.06,84,8.3,73,14.99,T,Yes,Medium (1-5M),0.1,2020
+G0835,Dark Force 2,Nintendo Switch,2012,Adventure,Sega,2.49,72,6.3,27,49.99,E,Yes,Medium (1-5M),0.9,2010
+G0836,Rising Age 2,Nintendo Switch,2024,RPG,Activision,2.79,78,7.9,9,29.99,M,Yes,Medium (1-5M),-0.1,2020
+G0837,Shadow Warriors 3,Xbox,2021,Puzzle,Nintendo,5.93,78,8.0,12,19.99,E10+,Yes,High (5-15M),-0.2,2020
+G0838,Super Age 2,PC,2017,Racing,Microsoft,1.48,80,7.5,18,29.99,T,Yes,Medium (1-5M),0.5,2010
+G0839,Cyber Warriors 2,Xbox,2016,Puzzle,Nintendo,4.48,76,6.9,7,29.99,E,No,Medium (1-5M),0.7,2010
+G0840,Final Arena 2,PC,2012,Simulation,Ubisoft,3.29,94,7.3,28,39.99,T,No,Medium (1-5M),2.1,2010
+G0841,Lost Dawn 1,Mobile,2016,Adventure,Take-Two,2.23,81,8.5,8,49.99,M,No,Medium (1-5M),-0.4,2010
+G0842,Ancient Horizon,PC,2016,Action,Square Enix,1.02,85,7.5,35,59.99,T,No,Medium (1-5M),1.0,2010
+G0843,Epic Worlds 3,PC,2017,Adventure,Sony Interactive,1.52,76,7.8,25,14.99,E,Yes,Medium (1-5M),-0.2,2010
+G0844,Legend Strike,PC,2022,Shooter,Bandai Namco,3.39,64,5.7,37,19.99,T,Yes,Medium (1-5M),0.7,2020
+G0845,Pixel Empire,PC,2024,Adventure,Valve,1.6,57,5.7,24,14.99,E10+,No,Medium (1-5M),0.0,2020
+G0846,Rising Quest 1,PC,2024,Puzzle,Activision,25.36,85,7.6,27,9.99,E10+,Yes,Blockbuster (15M+),0.9,2020
+G0847,Dark Dawn,PC,2023,Strategy,Sony Interactive,8.21,73,7.6,63,49.99,M,Yes,High (5-15M),-0.3,2020
+G0848,Lost Souls 2,Xbox,2016,Sports,Sega,4.84,97,8.2,10,39.99,M,No,Medium (1-5M),1.5,2010
+G0849,Pixel Empire 1,PlayStation,2022,Simulation,Take-Two,0.88,60,6.5,45,9.99,E10+,Yes,Low (<1M),-0.5,2020
+G0850,Dark Horizon 3,PC,2016,Shooter,Bandai Namco,3.2,59,6.5,16,39.99,E,No,Medium (1-5M),-0.6,2010
+G0851,Dragon Empire 2,PC,2025,RPG,Sega,27.78,75,7.2,8,29.99,M,Yes,Blockbuster (15M+),0.3,2020
+G0852,Battle Worlds 1,PC,2019,Adventure,Electronic Arts,0.26,64,6.5,23,59.99,T,Yes,Low (<1M),-0.1,2010
+G0853,Ultra Arena 2,Mobile,2023,Adventure,Sony Interactive,2.95,52,4.7,40,39.99,M,Yes,Medium (1-5M),0.5,2020
+G0854,Ancient Raid 1,Mobile,2019,Adventure,Activision,5.6,84,8.5,20,19.99,M,No,High (5-15M),-0.1,2010
+G0855,Mega Horizon 2,Nintendo Switch,2014,Shooter,Square Enix,8.11,61,5.8,12,14.99,E10+,No,High (5-15M),0.3,2010
+G0856,Ultra Empire 1,PC,2016,Puzzle,Take-Two,7.2,74,8.6,21,59.99,E10+,No,High (5-15M),-1.2,2010
+G0857,Dragon Quest 3,Mobile,2017,Fighting,Sony Interactive,9.91,70,7.7,7,14.99,E,Yes,High (5-15M),-0.7,2010
+G0858,Super Worlds,PlayStation,2014,Shooter,Activision,45.0,75,6.4,90,29.99,E,No,Blockbuster (15M+),1.1,2010
+G0859,Battle Chronicles 1,PlayStation,2018,Shooter,Bandai Namco,6.86,89,7.2,18,19.99,E10+,No,High (5-15M),1.7,2010
+G0860,Neon Legacy 2,PlayStation,2024,Puzzle,Ubisoft,2.18,81,7.8,47,14.99,E10+,Yes,Medium (1-5M),0.3,2020
+G0861,Cyber Force,PlayStation,2019,Adventure,Epic Games,4.17,84,8.1,53,14.99,E10+,No,Medium (1-5M),0.3,2010
+G0862,Battle Warriors 3,PC,2013,Sports,Sony Interactive,4.53,66,6.0,30,39.99,M,Yes,Medium (1-5M),0.6,2010
+G0863,Super Strike 3,PlayStation,2019,Adventure,Capcom,1.32,76,5.9,19,59.99,E10+,No,Medium (1-5M),1.7,2010
+G0864,Cyber Souls 1,Xbox,2022,Sports,Sony Interactive,0.83,93,8.7,68,39.99,T,No,Low (<1M),0.6,2020
+G0865,Battle Empire 1,PlayStation,2025,Racing,Bandai Namco,1.09,88,8.8,66,69.99,E10+,Yes,Medium (1-5M),0.0,2020
+G0866,Cyber Strike 1,Xbox,2016,Action,Capcom,17.26,84,9.0,17,9.99,M,Yes,Blockbuster (15M+),-0.6,2010
+G0867,Ultra Quest 3,Nintendo Switch,2013,Sports,Capcom,6.18,62,6.9,196,19.99,E,Yes,High (5-15M),-0.7,2010
+G0868,Lost Worlds 3,Mobile,2020,Action,Sega,2.51,72,7.1,15,49.99,E,Yes,Medium (1-5M),0.1,2020
+G0869,Final Rivals 3,Nintendo Switch,2013,Action,Bandai Namco,32.95,72,6.2,18,19.99,M,No,Blockbuster (15M+),1.0,2010
+G0870,Cyber Horizon 1,PC,2020,Sports,Sega,1.29,63,5.8,25,19.99,T,Yes,Medium (1-5M),0.5,2020
+G0871,Legend Rivals 1,PC,2016,Action,Take-Two,0.67,74,8.2,45,59.99,T,No,Low (<1M),-0.8,2010
+G0872,Super Age 1,Nintendo Switch,2021,Puzzle,Valve,0.61,59,6.2,72,59.99,E,Yes,Low (<1M),-0.3,2020
+G0873,Dark Dawn 2,PlayStation,2014,Strategy,Sega,15.77,69,7.4,38,49.99,E,No,Blockbuster (15M+),-0.5,2010
+G0874,Shadow Age 3,PC,2020,Action,Microsoft,35.97,76,7.3,52,29.99,E,Yes,Blockbuster (15M+),0.3,2020
+G0875,Dragon Legacy 1,PlayStation,2017,RPG,Nintendo,1.19,88,7.9,38,49.99,T,Yes,Medium (1-5M),0.9,2010
+G0876,Lost Strike,PlayStation,2023,Adventure,Sega,10.6,84,9.1,30,39.99,M,Yes,High (5-15M),-0.7,2020
+G0877,Eternal Empire 3,PlayStation,2015,Racing,Take-Two,2.2,63,5.6,28,49.99,T,No,Medium (1-5M),0.7,2010
+G0878,Dark Tactics 3,Xbox,2020,Action,Sega,4.65,71,7.0,10,59.99,E10+,No,Medium (1-5M),0.1,2020
+G0879,Ancient Worlds 3,PC,2015,Action,Square Enix,3.89,93,8.6,15,59.99,E10+,No,Medium (1-5M),0.7,2010
+G0880,Final Raid 1,PlayStation,2012,RPG,Square Enix,45.0,78,7.8,8,49.99,T,No,Blockbuster (15M+),0.0,2010
+G0881,Ancient Age 1,PlayStation,2018,RPG,Ubisoft,5.0,62,6.5,31,49.99,M,Yes,Medium (1-5M),-0.3,2010
+G0882,Rising Quest 2,Xbox,2019,Action,Nintendo,1.77,59,5.7,7,29.99,T,No,Medium (1-5M),0.2,2010
+G0883,Eternal Chronicles 3,PC,2023,RPG,Square Enix,22.16,64,6.7,55,19.99,T,No,Blockbuster (15M+),-0.3,2020
+G0884,Super Quest 1,PlayStation,2017,Sports,Valve,27.19,80,7.9,17,14.99,E,No,Blockbuster (15M+),0.1,2010
+G0885,Mega Tactics 3,PC,2016,Puzzle,Take-Two,3.41,57,4.3,60,39.99,E10+,No,Medium (1-5M),1.4,2010
+G0886,Dark Dawn 1,PlayStation,2025,Simulation,Take-Two,0.57,67,7.5,22,14.99,M,No,Low (<1M),-0.8,2020
+G0887,Dragon Horizon 1,PlayStation,2019,Puzzle,Take-Two,0.81,60,6.0,10,39.99,M,Yes,Low (<1M),0.0,2010
+G0888,Neon Souls 1,Nintendo Switch,2020,Shooter,Epic Games,11.62,93,8.6,24,39.99,E10+,No,High (5-15M),0.7,2020
+G0889,Shadow Strike 3,Mobile,2021,Sports,Sega,3.18,74,7.6,7,19.99,E10+,No,Medium (1-5M),-0.2,2020
+G0890,Super Quest 2,Xbox,2012,Puzzle,Sega,7.66,70,7.1,7,14.99,M,Yes,High (5-15M),-0.1,2010
+G0891,Dragon Strike,PlayStation,2019,Adventure,Epic Games,0.96,81,8.5,23,29.99,T,No,Low (<1M),-0.4,2010
+G0892,Iron Odyssey 3,Nintendo Switch,2013,Sports,Activision,0.96,63,6.1,17,19.99,E,No,Low (<1M),0.2,2010
+G0893,Legend Dawn 3,Nintendo Switch,2013,Racing,Activision,5.81,87,7.7,15,29.99,E,No,High (5-15M),1.0,2010
+G0894,Space Strike 3,PlayStation,2019,Shooter,Microsoft,28.25,83,9.2,17,19.99,E10+,Yes,Blockbuster (15M+),-0.9,2010
+G0895,Iron Strike 3,Nintendo Switch,2025,RPG,Nintendo,21.65,52,4.1,43,14.99,M,No,Blockbuster (15M+),1.1,2020
+G0896,Storm Age,PlayStation,2017,Puzzle,Nintendo,1.86,63,4.4,26,14.99,E10+,Yes,Medium (1-5M),1.9,2010
+G0897,Legend Legacy 3,PlayStation,2025,Racing,Ubisoft,1.98,76,7.7,19,49.99,E,No,Medium (1-5M),-0.1,2020
+G0898,Eternal Tactics 2,Nintendo Switch,2017,Sports,Capcom,6.5,58,5.1,23,9.99,E,No,High (5-15M),0.7,2010
+G0899,Shadow Worlds 2,PlayStation,2021,Shooter,Bandai Namco,14.96,73,8.3,9,49.99,M,No,High (5-15M),-1.0,2020
+G0900,Legend Legacy 2,PlayStation,2013,Simulation,Take-Two,1.72,62,4.7,18,19.99,M,No,Medium (1-5M),1.5,2010
+G0901,Final Chronicles 1,Xbox,2023,Shooter,Activision,11.39,71,6.6,12,29.99,T,No,High (5-15M),0.5,2020
+G0902,Eternal Warriors 2,PC,2020,Sports,Bandai Namco,1.94,67,7.9,11,49.99,T,No,Medium (1-5M),-1.2,2020
+G0903,Storm Strike 1,PlayStation,2019,RPG,Take-Two,20.16,73,7.0,25,14.99,T,Yes,Blockbuster (15M+),0.3,2010
+G0904,Iron Tactics 1,Nintendo Switch,2016,Action,Epic Games,1.18,83,8.6,73,19.99,M,Yes,Medium (1-5M),-0.3,2010
+G0905,Final Odyssey 2,Xbox,2018,Puzzle,Square Enix,8.16,40,4.1,44,59.99,M,No,High (5-15M),-0.1,2010
+G0906,Shadow Rivals 1,PlayStation,2015,Racing,Electronic Arts,1.32,86,7.5,14,59.99,M,No,Medium (1-5M),1.1,2010
+G0907,Cyber Fury 2,Xbox,2013,Sports,Bandai Namco,0.45,58,6.6,7,49.99,T,No,Low (<1M),-0.8,2010
+G0908,Cyber Dawn 2,PlayStation,2019,Action,Electronic Arts,5.68,52,5.9,13,39.99,E,No,High (5-15M),-0.7,2010
+G0909,Eternal Worlds 1,Nintendo Switch,2013,Action,Ubisoft,7.66,71,5.9,40,59.99,E,Yes,High (5-15M),1.2,2010
+G0910,Rising Chronicles 2,PC,2012,Adventure,Bandai Namco,3.51,66,5.0,13,39.99,E10+,Yes,Medium (1-5M),1.6,2010
+G0911,Storm Warriors 1,PC,2022,Puzzle,Valve,45.0,69,6.2,51,29.99,E10+,Yes,Blockbuster (15M+),0.7,2020
+G0912,Epic Chronicles 3,Nintendo Switch,2024,Fighting,Electronic Arts,3.16,62,6.1,13,14.99,T,Yes,Medium (1-5M),0.1,2020
+G0913,Super Tactics 3,Xbox,2013,RPG,Sony Interactive,2.7,72,6.7,27,69.99,E10+,No,Medium (1-5M),0.5,2010
+G0914,Dark Force 1,PC,2024,Fighting,Sega,0.66,65,6.7,22,29.99,T,Yes,Low (<1M),-0.2,2020
+G0915,Epic Souls 3,PlayStation,2016,Strategy,Electronic Arts,2.43,55,5.6,6,19.99,T,Yes,Medium (1-5M),-0.1,2010
+G0916,Ultra Rivals 3,PC,2023,RPG,Capcom,3.13,55,5.9,18,14.99,T,Yes,Medium (1-5M),-0.4,2020
+G0917,Space Odyssey 2,Mobile,2013,Racing,Square Enix,45.0,64,5.6,13,49.99,T,Yes,Blockbuster (15M+),0.8,2010
+G0918,Battle Dawn 3,Xbox,2019,Shooter,Microsoft,7.33,65,5.7,27,49.99,E10+,Yes,High (5-15M),0.8,2010
+G0919,Ultra Souls 2,PlayStation,2015,Sports,Microsoft,3.11,76,7.3,33,19.99,E,No,Medium (1-5M),0.3,2010
+G0920,Eternal Horizon 3,PC,2015,Shooter,Sega,7.44,85,6.7,13,9.99,M,Yes,High (5-15M),1.8,2010
+G0921,Legend Souls 1,PlayStation,2018,RPG,Sony Interactive,24.77,73,7.5,23,59.99,E10+,Yes,Blockbuster (15M+),-0.2,2010
+G0922,Neon Age 1,Xbox,2019,Sports,Electronic Arts,3.65,78,8.8,10,29.99,M,No,Medium (1-5M),-1.0,2010
+G0923,Space Age 2,PC,2020,Action,Take-Two,2.58,82,8.1,22,49.99,T,Yes,Medium (1-5M),0.1,2020
+G0924,Final Souls 1,PlayStation,2014,RPG,Take-Two,45.0,60,6.6,15,59.99,E10+,No,Blockbuster (15M+),-0.6,2010
+G0925,Lost Arena 1,Nintendo Switch,2015,Action,Epic Games,5.55,65,6.9,23,29.99,E10+,No,High (5-15M),-0.4,2010
+G0926,Lost Quest 3,PlayStation,2021,Sports,Microsoft,0.91,88,8.1,15,19.99,T,No,Low (<1M),0.7,2020
+G0927,Mega Tactics 2,PC,2023,Action,Take-Two,10.98,69,5.6,12,19.99,E,No,High (5-15M),1.3,2020
+G0928,Ultra Chronicles 1,PlayStation,2016,Adventure,Sony Interactive,2.65,61,4.3,11,49.99,T,No,Medium (1-5M),1.8,2010
+G0929,Mega Age,Nintendo Switch,2014,Simulation,Activision,8.7,73,7.0,5,69.99,T,No,High (5-15M),0.3,2010
+G0930,Dragon Legacy 3,PlayStation,2016,Adventure,Electronic Arts,5.01,81,6.9,14,9.99,E10+,Yes,High (5-15M),1.2,2010
+G0931,Lost Quest 2,PC,2013,Shooter,Bandai Namco,45.0,63,5.5,38,9.99,T,Yes,Blockbuster (15M+),0.8,2010
+G0932,Ultra Legacy 3,Xbox,2025,Strategy,Take-Two,2.0,76,7.9,16,14.99,T,No,Medium (1-5M),-0.3,2020
+G0933,Neon Dawn 3,PlayStation,2020,RPG,Valve,4.11,79,7.7,37,69.99,E,Yes,Medium (1-5M),0.2,2020
+G0934,Neon Tactics 3,Nintendo Switch,2025,Simulation,Valve,8.2,78,7.6,16,59.99,E10+,Yes,High (5-15M),0.2,2020
+G0935,Rising Strike 1,PlayStation,2020,Strategy,Activision,5.33,79,7.9,33,9.99,E,Yes,High (5-15M),0.0,2020
+G0936,Storm Horizon 2,Xbox,2016,RPG,Take-Two,0.85,73,7.7,5,39.99,E,No,Low (<1M),-0.4,2010
+G0937,Cyber Legacy 2,PlayStation,2025,Action,Ubisoft,6.56,69,6.7,24,39.99,T,Yes,High (5-15M),0.2,2020
+G0938,Space Legacy 1,PC,2021,RPG,Epic Games,1.88,57,5.5,21,29.99,M,No,Medium (1-5M),0.2,2020
+G0939,Rising Quest 3,PlayStation,2021,Shooter,Valve,4.1,77,7.9,60,29.99,E10+,No,Medium (1-5M),-0.2,2020
+G0940,Super Legacy 1,PlayStation,2015,Racing,Nintendo,3.9,63,5.5,16,49.99,M,Yes,Medium (1-5M),0.8,2010
+G0941,Ultra Horizon 3,Xbox,2025,Adventure,Microsoft,7.14,78,8.8,28,14.99,E10+,Yes,High (5-15M),-1.0,2020
+G0942,Super Chronicles 2,Mobile,2015,Sports,Nintendo,2.71,71,5.7,12,39.99,M,No,Medium (1-5M),1.4,2010
+G0943,Dark Arena 1,Nintendo Switch,2017,Racing,Microsoft,3.8,56,6.6,31,19.99,E10+,Yes,Medium (1-5M),-1.0,2010
+G0944,Dark Quest 1,PlayStation,2022,Puzzle,Capcom,2.38,80,7.3,3,19.99,T,Yes,Medium (1-5M),0.7,2020
+G0945,Storm Warriors 3,PlayStation,2020,Racing,Ubisoft,4.56,76,6.2,11,59.99,T,No,Medium (1-5M),1.4,2020
+G0946,Ancient Age 2,PlayStation,2019,Adventure,Sega,9.53,80,8.5,46,39.99,T,Yes,High (5-15M),-0.5,2010
+G0947,Mega Arena 1,PC,2017,Racing,Capcom,1.16,45,4.9,12,9.99,E10+,No,Medium (1-5M),-0.4,2010
+G0948,Dark Fury 2,Xbox,2023,Sports,Take-Two,4.36,80,7.5,13,19.99,M,Yes,Medium (1-5M),0.5,2020
+G0949,Storm Dawn 2,PC,2013,Puzzle,Ubisoft,7.42,67,6.3,22,29.99,M,Yes,High (5-15M),0.4,2010
+G0950,Shadow Odyssey 3,PC,2013,Racing,Take-Two,4.91,72,7.5,11,19.99,T,No,Medium (1-5M),-0.3,2010
+G0951,Ancient Empire 1,PlayStation,2023,Racing,Epic Games,1.15,71,5.7,64,59.99,M,No,Medium (1-5M),1.4,2020
+G0952,Eternal Souls 2,PC,2019,RPG,Epic Games,4.61,59,6.9,8,9.99,M,Yes,Medium (1-5M),-1.0,2010
+G0953,Super Warriors 3,PC,2023,Racing,Take-Two,4.5,58,6.2,12,29.99,T,Yes,Medium (1-5M),-0.4,2020
+G0954,Lost Fury 1,PC,2024,Strategy,Activision,16.92,62,5.8,16,49.99,E10+,No,Blockbuster (15M+),0.4,2020
+G0955,Dark Odyssey 3,Xbox,2020,Shooter,Microsoft,45.0,68,8.0,20,29.99,E10+,Yes,Blockbuster (15M+),-1.2,2020
+G0956,Dragon Force 3,PC,2015,Action,Bandai Namco,3.36,40,3.5,6,29.99,E10+,No,Medium (1-5M),0.5,2010
+G0957,Ultra Horizon 2,PC,2022,Shooter,Sony Interactive,5.63,87,6.8,11,49.99,T,Yes,High (5-15M),1.9,2020
+G0958,Ultra Fury 3,PC,2023,Racing,Sony Interactive,3.12,65,6.0,17,29.99,M,No,Medium (1-5M),0.5,2020
+G0959,Iron Raid 2,Nintendo Switch,2014,Shooter,Activision,7.64,84,8.9,27,49.99,E10+,Yes,High (5-15M),-0.5,2010
+G0960,Pixel Quest 1,PC,2015,Sports,Nintendo,5.61,65,5.8,24,59.99,M,No,High (5-15M),0.7,2010
+G0961,Final Tactics 2,PC,2014,Adventure,Sony Interactive,3.84,53,5.1,34,59.99,T,No,Medium (1-5M),0.2,2010
+G0962,Dragon Worlds,PlayStation,2021,Simulation,Electronic Arts,2.21,69,6.8,52,59.99,M,Yes,Medium (1-5M),0.1,2020
+G0963,Dark Empire 2,PlayStation,2016,Sports,Epic Games,1.99,84,9.5,34,14.99,M,No,Medium (1-5M),-1.1,2010
+G0964,Storm Souls 2,PlayStation,2020,Puzzle,Square Enix,1.84,74,7.2,77,29.99,E,No,Medium (1-5M),0.2,2020
+G0965,Epic Raid 2,PC,2021,Shooter,Sony Interactive,3.25,51,4.1,26,59.99,E10+,Yes,Medium (1-5M),1.0,2020
+G0966,Lost Horizon 3,Xbox,2019,RPG,Activision,3.04,75,7.9,16,9.99,M,Yes,Medium (1-5M),-0.4,2010
+G0967,Ultra Force 1,PlayStation,2023,Simulation,Electronic Arts,4.5,50,5.2,51,39.99,M,No,Medium (1-5M),-0.2,2020
+G0968,Rising Arena 2,PC,2018,RPG,Square Enix,3.55,58,5.0,46,19.99,T,No,Medium (1-5M),0.8,2010
+G0969,Cyber Legacy 3,PC,2023,Action,Ubisoft,0.85,84,8.5,17,29.99,T,No,Low (<1M),-0.1,2020
+G0970,Ancient Horizon 1,PlayStation,2019,Simulation,Square Enix,2.8,91,8.8,21,49.99,E10+,Yes,Medium (1-5M),0.3,2010
+G0971,Battle Warriors 1,Xbox,2013,RPG,Epic Games,1.95,82,7.7,51,49.99,T,No,Medium (1-5M),0.5,2010
+G0972,Dragon Strike 2,PlayStation,2015,RPG,Ubisoft,12.92,70,6.5,20,39.99,T,Yes,High (5-15M),0.5,2010
+G0973,Neon Force 1,Mobile,2014,RPG,Electronic Arts,16.09,84,8.7,23,49.99,T,No,Blockbuster (15M+),-0.3,2010
+G0974,Mega Arena 2,Xbox,2023,Racing,Bandai Namco,22.91,63,4.7,33,49.99,E,No,Blockbuster (15M+),1.6,2020
+G0975,Legend Force 3,Xbox,2018,Adventure,Square Enix,4.17,79,7.9,7,39.99,E,No,Medium (1-5M),0.0,2010
+G0976,Ancient Quest 2,PC,2021,RPG,Epic Games,8.33,83,8.4,19,29.99,T,No,High (5-15M),-0.1,2020
+G0977,Battle Arena 1,PC,2021,Shooter,Bandai Namco,5.9,75,4.9,11,39.99,E,No,High (5-15M),2.6,2020
+G0978,Eternal Force 1,PC,2012,Simulation,Take-Two,3.48,70,7.3,9,39.99,E,No,Medium (1-5M),-0.3,2010
+G0979,Space Odyssey 3,PC,2024,Fighting,Square Enix,3.93,82,7.8,6,49.99,E,No,Medium (1-5M),0.4,2020
+G0980,Mega Odyssey 3,PlayStation,2016,Strategy,Ubisoft,5.54,61,4.1,9,19.99,E10+,Yes,High (5-15M),2.0,2010
+G0981,Final Fury 2,PC,2024,Adventure,Microsoft,4.9,68,5.7,14,39.99,E10+,No,Medium (1-5M),1.1,2020
+G0982,Super Empire 1,PlayStation,2015,Puzzle,Ubisoft,0.74,66,6.5,20,69.99,E10+,Yes,Low (<1M),0.1,2010
+G0983,Ultra Chronicles 2,Xbox,2015,Shooter,Sony Interactive,4.99,84,9.7,15,69.99,M,Yes,Medium (1-5M),-1.3,2010
+G0984,Shadow Legacy 1,PlayStation,2014,RPG,Square Enix,14.22,80,8.2,18,49.99,E10+,No,High (5-15M),-0.2,2010
+G0985,Dragon Chronicles 2,Nintendo Switch,2014,Action,Valve,12.57,58,4.5,36,9.99,E10+,No,High (5-15M),1.3,2010
+G0986,Dark Dawn 3,Mobile,2024,Simulation,Sony Interactive,18.51,58,6.6,62,59.99,T,Yes,Blockbuster (15M+),-0.8,2020
+G0987,Final Legacy 1,Xbox,2021,Simulation,Microsoft,1.02,76,7.8,19,49.99,M,No,Medium (1-5M),-0.2,2020
+G0988,Dark Rivals 1,PC,2025,Puzzle,Sony Interactive,1.36,78,8.0,36,14.99,T,Yes,Medium (1-5M),-0.2,2020
+G0989,Neon Fury 2,Xbox,2016,Adventure,Epic Games,8.69,76,7.3,19,29.99,T,Yes,High (5-15M),0.3,2010
+G0990,Final Odyssey 3,Xbox,2021,Action,Electronic Arts,6.13,75,7.5,27,39.99,T,No,High (5-15M),0.0,2020
+G0991,Final Fury 1,PC,2014,Shooter,Capcom,14.34,97,8.2,11,19.99,T,No,High (5-15M),1.5,2010
+G0992,Iron Horizon 2,Xbox,2025,Racing,Valve,2.12,71,5.9,33,39.99,T,No,Medium (1-5M),1.2,2020
+G0993,Battle Souls 2,PlayStation,2023,RPG,Bandai Namco,11.42,82,6.6,18,14.99,M,No,High (5-15M),1.6,2020
+G0994,Final Strike 1,PC,2018,Adventure,Sony Interactive,2.08,84,8.7,22,19.99,E10+,Yes,Medium (1-5M),-0.3,2010
+G0995,Dragon Quest 1,Xbox,2018,Sports,Sega,4.6,75,6.9,7,49.99,T,Yes,Medium (1-5M),0.6,2010
+G0996,Eternal Force 3,PC,2016,Shooter,Epic Games,41.78,80,7.7,18,39.99,E10+,No,Blockbuster (15M+),0.3,2010
+G0997,Rising Warriors 1,PC,2016,Adventure,Sony Interactive,0.87,58,5.8,25,69.99,T,Yes,Low (<1M),0.0,2010
+G0998,Shadow Empire 3,Xbox,2020,Fighting,Epic Games,2.74,80,7.0,11,39.99,E10+,No,Medium (1-5M),1.0,2020
+G0999,Battle Worlds 3,Xbox,2025,Fighting,Sony Interactive,3.36,76,6.5,27,14.99,E10+,Yes,Medium (1-5M),1.1,2020
+G1000,Super Empire 2,Nintendo Switch,2025,Shooter,Ubisoft,1.89,64,5.9,29,59.99,E10+,Yes,Medium (1-5M),0.5,2020
+G1001,Mega Dawn 1,Xbox,2016,Racing,Ubisoft,21.15,78,6.6,22,49.99,E10+,Yes,Blockbuster (15M+),1.2,2010
+G1002,Lost Force 3,PlayStation,2013,Adventure,Activision,2.77,76,7.3,12,39.99,M,No,Medium (1-5M),0.3,2010
+G1003,Final Rivals 1,Xbox,2016,Strategy,Epic Games,3.84,80,6.5,33,9.99,M,Yes,Medium (1-5M),1.5,2010
+G1004,Cyber Raid 3,PC,2025,Sports,Microsoft,3.37,76,7.6,36,14.99,T,Yes,Medium (1-5M),0.0,2020
+G1005,Neon Horizon 2,Nintendo Switch,2022,Adventure,Sega,3.96,88,9.2,38,39.99,E,Yes,Medium (1-5M),-0.4,2020
+G1006,Dragon Force,Xbox,2016,Simulation,Electronic Arts,21.77,61,5.7,23,29.99,E,Yes,Blockbuster (15M+),0.4,2010
+G1007,Final Worlds 2,Mobile,2017,Strategy,Electronic Arts,0.57,78,7.2,17,39.99,E,Yes,Low (<1M),0.6,2010
+G1008,Shadow Quest 2,PC,2025,Action,Activision,1.0,71,6.5,9,49.99,T,No,Low (<1M),0.6,2020
+G1009,Storm Raid 2,PlayStation,2015,RPG,Capcom,4.68,73,7.4,11,39.99,M,Yes,Medium (1-5M),-0.1,2010
+G1010,Storm Raid 3,Xbox,2015,Strategy,Bandai Namco,0.93,75,8.0,22,29.99,M,No,Low (<1M),-0.5,2010
+G1011,Space Horizon 1,Xbox,2018,Adventure,Capcom,1.17,70,6.1,22,14.99,E10+,Yes,Medium (1-5M),0.9,2010
+G1012,Shadow Arena 1,PlayStation,2021,Fighting,Valve,36.98,77,8.4,26,29.99,E,No,Blockbuster (15M+),-0.7,2020
+G1013,Ultra Souls 1,PlayStation,2023,Action,Valve,7.5,74,8.2,22,39.99,T,No,High (5-15M),-0.8,2020
+G1014,Lost Horizon 1,Nintendo Switch,2022,Fighting,Microsoft,0.73,76,6.7,3,59.99,M,Yes,Low (<1M),0.9,2020
+G1015,Pixel Force 1,Nintendo Switch,2024,Action,Sega,3.69,74,7.2,23,14.99,E10+,Yes,Medium (1-5M),0.2,2020
+G1016,Dark Strike 1,Nintendo Switch,2015,Fighting,Take-Two,4.19,65,7.2,10,9.99,E,No,Medium (1-5M),-0.7,2010
+G1017,Battle Strike 1,Nintendo Switch,2021,Adventure,Nintendo,26.21,67,6.7,10,49.99,E10+,No,Blockbuster (15M+),0.0,2020
+G1018,Pixel Souls 3,PlayStation,2025,Shooter,Sony Interactive,1.66,77,6.0,11,29.99,M,No,Medium (1-5M),1.7,2020
+G1019,Cyber Force 2,PC,2013,Puzzle,Sony Interactive,4.72,91,8.3,25,29.99,E10+,No,Medium (1-5M),0.8,2010
+G1020,Ancient Strike 2,Nintendo Switch,2023,RPG,Nintendo,3.47,84,8.8,2,39.99,E,No,Medium (1-5M),-0.4,2020
+G1021,Mega Quest 3,PlayStation,2025,RPG,Valve,23.42,68,7.8,14,39.99,M,No,Blockbuster (15M+),-1.0,2020
+G1022,Final Empire 2,PlayStation,2022,RPG,Square Enix,10.64,74,7.3,18,29.99,E10+,Yes,High (5-15M),0.1,2020
+G1023,Shadow Force 2,PlayStation,2019,Shooter,Square Enix,2.8,49,3.1,19,39.99,E,Yes,Medium (1-5M),1.8,2010
+G1024,Iron Souls 1,PlayStation,2018,Simulation,Take-Two,3.6,88,8.6,75,19.99,E10+,No,Medium (1-5M),0.2,2010
+G1025,Ultra Rivals 1,PlayStation,2020,RPG,Activision,19.36,53,5.1,23,49.99,T,No,Blockbuster (15M+),0.2,2020
+G1026,Epic Age 1,PC,2025,RPG,Activision,0.79,81,9.0,2,9.99,E10+,No,Low (<1M),-0.9,2020
+G1027,Dark Worlds 2,PC,2025,Sports,Bandai Namco,8.79,86,9.1,23,29.99,E10+,No,High (5-15M),-0.5,2020
+G1028,Dark Arena 3,PlayStation,2012,Strategy,Microsoft,1.17,92,8.5,56,49.99,E10+,Yes,Medium (1-5M),0.7,2010
+G1029,Legend Horizon 2,PlayStation,2017,Action,Valve,2.41,66,5.8,51,9.99,M,Yes,Medium (1-5M),0.8,2010
+G1030,Mega Rivals 1,PC,2015,Shooter,Square Enix,0.45,71,7.4,22,59.99,T,No,Low (<1M),-0.3,2010
+G1031,Space Dawn 2,PlayStation,2023,RPG,Capcom,4.25,98,9.6,23,49.99,E10+,No,Medium (1-5M),0.2,2020
+G1032,Ancient Rivals 3,PC,2018,Adventure,Sega,2.83,73,6.6,53,39.99,E,Yes,Medium (1-5M),0.7,2010
+G1033,Lost Age 3,Xbox,2012,Fighting,Sega,14.46,71,7.4,5,59.99,M,Yes,High (5-15M),-0.3,2010
+G1034,Cyber Tactics 2,PC,2015,Action,Nintendo,0.96,52,3.4,52,14.99,M,Yes,Low (<1M),1.8,2010
+G1035,Storm Force 2,PC,2022,Strategy,Capcom,6.0,68,6.4,12,49.99,E,Yes,High (5-15M),0.4,2020
+G1036,Legend Empire 2,Nintendo Switch,2018,Simulation,Take-Two,0.62,98,9.5,30,49.99,E10+,Yes,Low (<1M),0.3,2010
+G1037,Iron Empire 2,PC,2012,Shooter,Ubisoft,45.0,91,7.6,14,49.99,E,No,Blockbuster (15M+),1.5,2010
+G1038,Ultra Arena 3,PC,2021,Strategy,Bandai Namco,7.25,68,5.2,33,14.99,T,Yes,High (5-15M),1.6,2020
+G1039,Cyber Raid 1,Mobile,2014,Racing,Nintendo,6.49,69,7.8,20,39.99,E10+,No,High (5-15M),-0.9,2010
+G1040,Legend Warriors 3,PC,2013,Action,Take-Two,2.85,70,7.6,26,49.99,E10+,Yes,Medium (1-5M),-0.6,2010
+G1041,Mega Strike 1,Nintendo Switch,2017,Sports,Ubisoft,28.09,75,7.3,12,19.99,E10+,No,Blockbuster (15M+),0.2,2010
+G1042,Cyber Horizon 3,PC,2023,Adventure,Electronic Arts,20.32,74,6.8,11,19.99,E10+,No,Blockbuster (15M+),0.6,2020
+G1043,Dark Souls 2,Xbox,2016,Racing,Square Enix,9.07,84,7.2,39,29.99,M,No,High (5-15M),1.2,2010
+G1044,Shadow Tactics 2,Xbox,2012,Strategy,Valve,1.51,85,8.9,10,59.99,T,No,Medium (1-5M),-0.4,2010
+G1045,Super Worlds 1,Xbox,2014,Adventure,Nintendo,2.15,92,9.8,29,19.99,E10+,No,Medium (1-5M),-0.6,2010
+G1046,Shadow Arena 3,PC,2015,Shooter,Microsoft,11.76,76,7.7,16,14.99,E10+,Yes,High (5-15M),-0.1,2010
+G1047,Rising Worlds 3,PC,2025,Simulation,Ubisoft,7.26,82,8.2,46,59.99,E10+,Yes,High (5-15M),0.0,2020
+G1048,Pixel Quest 2,PlayStation,2020,Shooter,Square Enix,4.34,75,7.1,36,39.99,M,No,Medium (1-5M),0.4,2020
+G1049,Rising Legacy 1,PlayStation,2025,Strategy,Valve,2.28,84,9.0,33,49.99,T,No,Medium (1-5M),-0.6,2020
+G1050,Neon Worlds 1,Xbox,2019,Puzzle,Take-Two,9.34,86,8.0,84,39.99,T,Yes,High (5-15M),0.6,2010
+G1051,Dark Chronicles 3,PC,2012,Adventure,Electronic Arts,1.17,73,6.9,36,49.99,T,Yes,Medium (1-5M),0.4,2010
+G1052,Epic Age 3,PC,2020,Sports,Electronic Arts,3.22,54,7.3,13,49.99,T,No,Medium (1-5M),-1.9,2020
+G1053,Battle Rivals 2,PC,2021,Shooter,Take-Two,2.06,83,7.8,13,59.99,T,No,Medium (1-5M),0.5,2020
+G1054,Iron Quest 3,PC,2022,Shooter,Epic Games,6.02,66,6.9,13,49.99,E10+,Yes,High (5-15M),-0.3,2020
+G1055,Lost Tactics 1,Xbox,2012,Action,Square Enix,5.87,86,9.7,26,49.99,T,Yes,High (5-15M),-1.1,2010
+G1056,Storm Chronicles 3,Nintendo Switch,2021,RPG,Sega,9.92,77,7.2,33,19.99,E10+,No,High (5-15M),0.5,2020
+G1057,Lost Horizon 2,PC,2022,RPG,Bandai Namco,2.17,69,7.0,13,9.99,E,No,Medium (1-5M),-0.1,2020
+G1058,Storm Odyssey 3,PlayStation,2021,Simulation,Nintendo,1.69,90,8.9,11,59.99,M,No,Medium (1-5M),0.1,2020
+G1059,Pixel Arena 2,Xbox,2016,Sports,Sega,7.96,60,5.4,46,59.99,E10+,Yes,High (5-15M),0.6,2010
+G1060,Space Force 2,Xbox,2016,Action,Capcom,1.56,79,7.7,12,29.99,E10+,No,Medium (1-5M),0.2,2010
+G1061,Dark Age 1,PlayStation,2023,Racing,Nintendo,8.31,83,7.7,23,69.99,M,No,High (5-15M),0.6,2020
+G1062,Dragon Worlds,PlayStation,2015,Action,Take-Two,19.4,85,9.4,26,14.99,M,No,Blockbuster (15M+),-0.9,2010
+G1063,Battle Dawn 2,Nintendo Switch,2012,Adventure,Epic Games,1.6,64,7.1,12,49.99,M,Yes,Medium (1-5M),-0.7,2010
+G1064,Lost Raid 2,Xbox,2013,Sports,Epic Games,1.03,84,8.0,22,49.99,M,Yes,Medium (1-5M),0.4,2010
+G1065,Pixel Force 2,Xbox,2018,Adventure,Epic Games,22.03,69,6.4,13,69.99,M,Yes,Blockbuster (15M+),0.5,2010
+G1066,Pixel Odyssey 2,PlayStation,2018,Adventure,Sega,4.51,95,7.9,7,19.99,E,No,Medium (1-5M),1.6,2010
+G1067,Cyber Fury 3,PC,2014,Adventure,Capcom,1.3,93,9.8,46,69.99,E,Yes,Medium (1-5M),-0.5,2010
+G1068,Rising Arena 1,PlayStation,2018,Adventure,Valve,11.2,88,9.8,15,9.99,T,No,High (5-15M),-1.0,2010
+G1069,Ancient Odyssey 3,PC,2014,RPG,Bandai Namco,0.82,69,7.2,62,49.99,E10+,No,Low (<1M),-0.3,2010
+G1070,Shadow Quest 3,PlayStation,2022,Simulation,Sega,1.91,70,8.1,15,19.99,M,Yes,Medium (1-5M),-1.1,2020
+G1071,Neon Force 2,Mobile,2017,Puzzle,Nintendo,7.86,67,7.5,22,49.99,M,Yes,High (5-15M),-0.8,2010
+G1072,Super Dawn 3,Xbox,2014,Sports,Take-Two,6.12,71,6.5,100,39.99,E10+,Yes,High (5-15M),0.6,2010
+G1073,Mega Warriors 1,PC,2022,Action,Epic Games,10.23,90,9.1,26,49.99,E,No,High (5-15M),-0.1,2020
+G1074,Pixel Chronicles 3,PC,2012,Shooter,Square Enix,3.14,67,6.0,3,14.99,T,No,Medium (1-5M),0.7,2010
+G1075,Iron Legacy 3,PC,2018,RPG,Ubisoft,6.52,87,8.9,22,19.99,M,No,High (5-15M),-0.2,2010
+G1076,Eternal Age 1,PC,2015,RPG,Capcom,2.62,70,6.5,16,39.99,M,Yes,Medium (1-5M),0.5,2010
+G1077,Legend Souls 1,PlayStation,2018,Sports,Take-Two,5.36,90,8.8,57,39.99,E10+,No,High (5-15M),0.2,2010
+G1078,Dragon Force 2,Xbox,2018,Fighting,Nintendo,1.72,64,6.0,56,59.99,M,No,Medium (1-5M),0.4,2010
+G1079,Iron Horizon 3,Xbox,2016,Adventure,Square Enix,7.45,85,8.8,9,39.99,M,No,High (5-15M),-0.3,2010
+G1080,Cyber Strike 2,PC,2021,Action,Electronic Arts,0.63,80,7.6,10,14.99,E10+,Yes,Low (<1M),0.4,2020
+G1081,Mega Strike 3,PlayStation,2019,Sports,Electronic Arts,2.67,85,7.7,16,29.99,E,Yes,Medium (1-5M),0.8,2010
+G1082,Epic Legacy 1,Xbox,2024,Shooter,Electronic Arts,2.0,78,7.5,51,14.99,T,Yes,Medium (1-5M),0.3,2020
+G1083,Ultra Dawn,Xbox,2012,Strategy,Take-Two,1.01,88,8.9,26,19.99,M,No,Medium (1-5M),-0.1,2010
+G1084,Shadow Fury 3,PlayStation,2015,Adventure,Nintendo,1.84,72,7.3,16,49.99,T,Yes,Medium (1-5M),-0.1,2010
+G1085,Epic Arena 2,Mobile,2022,Simulation,Microsoft,18.89,66,7.6,48,29.99,T,No,Blockbuster (15M+),-1.0,2020
+G1086,Ancient Raid 3,PlayStation,2018,Adventure,Valve,9.57,83,7.6,20,9.99,E10+,Yes,High (5-15M),0.7,2010
+G1087,Storm Souls 3,PlayStation,2014,Puzzle,Square Enix,4.05,85,7.5,28,29.99,M,No,Medium (1-5M),1.0,2010
+G1088,Super Rivals 3,Xbox,2023,RPG,Ubisoft,3.47,82,9.3,13,9.99,M,No,Medium (1-5M),-1.1,2020
+G1089,Iron Age 3,PlayStation,2016,Simulation,Activision,1.53,46,4.2,20,39.99,T,No,Medium (1-5M),0.4,2010
+G1090,Dark Souls 1,PC,2013,Action,Microsoft,4.15,78,8.7,24,14.99,T,Yes,Medium (1-5M),-0.9,2010
+G1091,Storm Quest 3,Xbox,2022,RPG,Ubisoft,3.19,78,7.9,11,59.99,E10+,Yes,Medium (1-5M),-0.1,2020
+G1092,Super Raid 2,PC,2014,Shooter,Microsoft,2.67,78,8.7,21,29.99,T,Yes,Medium (1-5M),-0.9,2010
+G1093,Space Arena,PC,2019,Shooter,Electronic Arts,1.09,63,4.7,9,19.99,M,No,Medium (1-5M),1.6,2010
+G1094,Mega Horizon 1,Xbox,2012,Action,Sony Interactive,3.12,81,7.8,169,39.99,T,Yes,Medium (1-5M),0.3,2010
+G1095,Ancient Tactics 2,PlayStation,2015,Strategy,Square Enix,7.65,74,7.4,16,14.99,E10+,No,High (5-15M),0.0,2010
+G1096,Neon Arena 1,PC,2025,Strategy,Ubisoft,36.92,98,8.4,48,39.99,E,Yes,Blockbuster (15M+),1.4,2020
+G1097,Mega Souls,Xbox,2018,Shooter,Sony Interactive,5.24,61,5.2,8,29.99,E,Yes,High (5-15M),0.9,2010
+G1098,Cyber Worlds 3,Xbox,2013,Simulation,Bandai Namco,24.95,79,7.8,34,19.99,T,Yes,Blockbuster (15M+),0.1,2010
+G1099,Ultra Odyssey 1,PlayStation,2025,Shooter,Epic Games,1.87,80,7.6,15,9.99,E10+,Yes,Medium (1-5M),0.4,2020
+G1100,Pixel Dawn 3,Mobile,2025,RPG,Microsoft,2.53,69,5.6,25,39.99,E,No,Medium (1-5M),1.3,2020
+G1101,Neon Legacy,PC,2019,Simulation,Ubisoft,17.92,71,8.8,10,49.99,T,Yes,Blockbuster (15M+),-1.7,2010
+G1102,Epic Quest 3,Xbox,2025,Action,Activision,9.19,87,8.1,67,39.99,E10+,Yes,High (5-15M),0.6,2020
+G1103,Legend Odyssey 1,PlayStation,2025,Strategy,Epic Games,7.44,69,7.0,95,29.99,E10+,Yes,High (5-15M),-0.1,2020
+G1104,Super Worlds 3,Nintendo Switch,2018,Sports,Microsoft,2.91,73,6.7,23,39.99,T,No,Medium (1-5M),0.6,2010
+G1105,Ultra Worlds 3,PlayStation,2019,Shooter,Nintendo,2.89,77,8.0,28,19.99,T,No,Medium (1-5M),-0.3,2010
+G1106,Rising Age 3,Xbox,2025,Sports,Take-Two,12.37,59,5.9,27,19.99,T,Yes,High (5-15M),0.0,2020
+G1107,Eternal Horizon 1,PlayStation,2014,Action,Sony Interactive,5.75,59,5.3,64,39.99,M,Yes,High (5-15M),0.6,2010
+G1108,Epic Odyssey 2,PC,2025,Shooter,Activision,3.93,80,7.1,10,69.99,E10+,No,Medium (1-5M),0.9,2020
+G1109,Cyber Souls 2,PlayStation,2024,RPG,Sony Interactive,22.75,75,8.1,72,39.99,E10+,Yes,Blockbuster (15M+),-0.6,2020
+G1110,Dragon Dawn,PC,2024,Strategy,Square Enix,9.92,43,4.8,9,39.99,M,Yes,High (5-15M),-0.5,2020
+G1111,Lost Strike 2,PlayStation,2018,Strategy,Sony Interactive,13.78,81,8.4,30,19.99,M,Yes,High (5-15M),-0.3,2010
+G1112,Epic Odyssey 3,PlayStation,2019,Racing,Square Enix,5.41,62,5.7,23,39.99,E10+,Yes,High (5-15M),0.5,2010
+G1113,Battle Quest 2,Mobile,2023,Simulation,Nintendo,18.42,86,9.8,32,19.99,T,Yes,Blockbuster (15M+),-1.2,2020
+G1114,Final Arena 1,Xbox,2013,Action,Capcom,3.44,52,5.4,37,49.99,T,No,Medium (1-5M),-0.2,2010
+G1115,Space Quest 2,PC,2020,RPG,Square Enix,45.0,82,7.7,19,14.99,T,No,Blockbuster (15M+),0.5,2020
+G1116,Space Rivals 1,PlayStation,2012,Puzzle,Nintendo,12.71,76,8.0,62,39.99,T,Yes,High (5-15M),-0.4,2010
+G1117,Dark Horizon 1,PC,2017,Action,Electronic Arts,2.1,76,6.5,10,39.99,E10+,Yes,Medium (1-5M),1.1,2010
+G1118,Iron Age 1,PC,2020,Adventure,Bandai Namco,12.54,62,6.2,25,19.99,E,Yes,High (5-15M),0.0,2020
+G1119,Rising Arena 3,Xbox,2013,Adventure,Ubisoft,6.38,68,5.9,27,9.99,E,No,High (5-15M),0.9,2010
+G1120,Dark Worlds 1,Nintendo Switch,2020,Simulation,Bandai Namco,0.62,74,8.3,14,59.99,E10+,No,Low (<1M),-0.9,2020
+G1121,Dark Force,PC,2022,Fighting,Electronic Arts,3.94,59,6.0,9,39.99,E10+,No,Medium (1-5M),-0.1,2020
+G1122,Iron Chronicles 2,Xbox,2019,Racing,Square Enix,1.31,83,8.7,44,29.99,E10+,No,Medium (1-5M),-0.4,2010
+G1123,Iron Rivals 2,Xbox,2017,Fighting,Epic Games,1.51,95,9.8,37,39.99,M,No,Medium (1-5M),-0.3,2010
+G1124,Iron Tactics 3,PC,2015,Shooter,Square Enix,0.73,73,7.7,47,14.99,M,Yes,Low (<1M),-0.4,2010
+G1125,Rising Empire 1,PlayStation,2025,Strategy,Microsoft,15.45,57,4.7,22,59.99,M,Yes,Blockbuster (15M+),1.0,2020
+G1126,Cyber Odyssey 2,PC,2023,Shooter,Capcom,1.55,78,8.9,25,14.99,E10+,Yes,Medium (1-5M),-1.1,2020
+G1127,Pixel Horizon 3,PlayStation,2018,Adventure,Take-Two,2.29,65,4.9,21,39.99,M,No,Medium (1-5M),1.6,2010
+G1128,Legend Strike 3,Xbox,2024,Racing,Electronic Arts,2.61,71,6.2,35,29.99,E,Yes,Medium (1-5M),0.9,2020
+G1129,Dark Age,PC,2016,Adventure,Nintendo,2.34,86,8.1,32,29.99,E,No,Medium (1-5M),0.5,2010
+G1130,Eternal Odyssey 3,Xbox,2023,RPG,Nintendo,45.0,83,7.9,31,29.99,T,No,Blockbuster (15M+),0.4,2020
+G1131,Epic Souls 2,PlayStation,2022,Adventure,Bandai Namco,1.22,70,6.7,25,39.99,T,No,Medium (1-5M),0.3,2020
+G1132,Shadow Dawn 2,PC,2016,Action,Electronic Arts,4.59,78,6.4,12,14.99,M,No,Medium (1-5M),1.4,2010
+G1133,Rising Force,Mobile,2012,RPG,Bandai Namco,40.57,71,8.2,6,9.99,T,Yes,Blockbuster (15M+),-1.1,2010
+G1134,Lost Strike 3,Nintendo Switch,2019,Simulation,Bandai Namco,2.62,49,3.3,40,39.99,E10+,Yes,Medium (1-5M),1.6,2010
+G1135,Mega Odyssey 1,PC,2016,Action,Nintendo,7.99,41,3.9,10,14.99,T,No,High (5-15M),0.2,2010
+G1136,Final Empire 3,Nintendo Switch,2013,Adventure,Nintendo,1.3,70,5.9,17,29.99,E10+,Yes,Medium (1-5M),1.1,2010
+G1137,Ancient Strike,Mobile,2013,Racing,Epic Games,1.69,64,6.3,53,39.99,E,Yes,Medium (1-5M),0.1,2010
+G1138,Shadow Dawn 3,Mobile,2016,Adventure,Ubisoft,1.58,98,9.8,51,14.99,E10+,Yes,Medium (1-5M),0.0,2010
+G1139,Space Worlds 3,PC,2025,Shooter,Epic Games,15.44,78,7.1,31,59.99,E10+,No,Blockbuster (15M+),0.7,2020
+G1140,Battle Age,Nintendo Switch,2022,Shooter,Epic Games,3.58,84,9.7,11,49.99,T,Yes,Medium (1-5M),-1.3,2020
+G1141,Battle Horizon 3,Nintendo Switch,2020,Strategy,Valve,2.57,71,6.3,32,14.99,T,Yes,Medium (1-5M),0.8,2020
+G1142,Storm Strike 2,PlayStation,2022,Racing,Ubisoft,14.83,71,5.5,11,29.99,E,No,High (5-15M),1.6,2020
+G1143,Legend Quest 1,Mobile,2018,Action,Sony Interactive,4.97,76,8.7,44,29.99,T,Yes,Medium (1-5M),-1.1,2010
+G1144,Iron Empire,Nintendo Switch,2021,RPG,Activision,3.22,86,8.9,25,49.99,T,No,Medium (1-5M),-0.3,2020
+G1145,Space Rivals 3,PC,2023,Fighting,Nintendo,3.69,73,6.7,14,39.99,M,No,Medium (1-5M),0.6,2020
+G1146,Legend Legacy,PC,2023,Shooter,Microsoft,24.41,56,5.3,14,59.99,T,No,Blockbuster (15M+),0.3,2020
+G1147,Dragon Chronicles 3,PC,2023,Racing,Capcom,7.5,84,7.1,30,39.99,E,Yes,High (5-15M),1.3,2020
+G1148,Ultra Chronicles 3,PlayStation,2018,RPG,Sega,8.0,66,7.3,137,39.99,M,Yes,High (5-15M),-0.7,2010
+G1149,Ancient Quest 1,Xbox,2013,Adventure,Take-Two,16.86,97,9.8,44,14.99,T,Yes,Blockbuster (15M+),-0.1,2010
+G1150,Legend Strike 2,Mobile,2014,RPG,Nintendo,3.9,65,6.8,20,14.99,E10+,No,Medium (1-5M),-0.3,2010
+G1151,Ancient Empire 2,Nintendo Switch,2025,Shooter,Activision,4.91,77,8.9,56,49.99,M,Yes,Medium (1-5M),-1.2,2020
+G1152,Shadow Raid 3,Nintendo Switch,2014,Adventure,Epic Games,1.3,82,7.7,54,9.99,E10+,No,Medium (1-5M),0.5,2010
+G1153,Neon Dawn 1,PC,2015,Puzzle,Sony Interactive,11.49,76,7.4,30,39.99,E,Yes,High (5-15M),0.2,2010
+G1154,Iron Empire 3,PC,2012,Adventure,Take-Two,1.22,57,4.7,21,9.99,T,No,Medium (1-5M),1.0,2010
+G1155,Iron Odyssey 2,Xbox,2012,Sports,Nintendo,27.06,62,7.4,12,14.99,T,No,Blockbuster (15M+),-1.2,2010
+G1156,Eternal Rivals,Mobile,2019,Sports,Epic Games,1.29,69,7.8,13,29.99,E10+,No,Medium (1-5M),-0.9,2010
+G1157,Super Worlds 2,PC,2024,RPG,Nintendo,12.36,65,6.0,14,39.99,E10+,No,High (5-15M),0.5,2020
+G1158,Eternal Quest 3,Mobile,2013,Fighting,Nintendo,9.13,60,5.1,9,19.99,M,No,High (5-15M),0.9,2010
+G1159,Final Dawn 1,Nintendo Switch,2025,RPG,Activision,6.43,69,5.4,39,19.99,M,No,High (5-15M),1.5,2020
+G1160,Super Souls 3,PC,2013,Simulation,Capcom,3.09,68,7.5,20,49.99,E10+,No,Medium (1-5M),-0.7,2010
+G1161,Ancient Souls 1,PC,2014,Simulation,Take-Two,3.17,69,6.6,13,49.99,T,Yes,Medium (1-5M),0.3,2010
+G1162,Ultra Strike,Xbox,2018,Racing,Take-Two,1.17,75,8.6,36,19.99,T,Yes,Medium (1-5M),-1.1,2010
+G1163,Space Chronicles 3,PlayStation,2012,Shooter,Microsoft,1.58,90,8.2,39,39.99,T,Yes,Medium (1-5M),0.8,2010
+G1164,Epic Strike 3,Xbox,2015,Puzzle,Ubisoft,3.89,80,8.5,42,19.99,E,Yes,Medium (1-5M),-0.5,2010
+G1165,Lost Raid 1,PC,2013,RPG,Epic Games,3.93,72,8.8,47,39.99,E,Yes,Medium (1-5M),-1.6,2010
+G1166,Rising Dawn 3,PlayStation,2013,Action,Valve,25.72,98,9.8,34,49.99,M,Yes,Blockbuster (15M+),0.0,2010
+G1167,Dragon Rivals 3,Xbox,2018,RPG,Bandai Namco,11.93,51,4.4,21,29.99,E10+,No,High (5-15M),0.7,2010
+G1168,Ancient Souls 2,PC,2017,Sports,Valve,6.11,65,7.0,6,14.99,E10+,No,High (5-15M),-0.5,2010
+G1169,Neon Force 3,PlayStation,2017,Adventure,Epic Games,4.21,73,6.2,34,19.99,M,Yes,Medium (1-5M),1.1,2010
+G1170,Lost Chronicles,PC,2014,Sports,Microsoft,2.29,86,8.6,23,49.99,M,Yes,Medium (1-5M),0.0,2010
+G1171,Ancient Rivals 2,PlayStation,2014,Adventure,Sega,2.92,67,6.3,16,49.99,E,No,Medium (1-5M),0.4,2010
+G1172,Mega Legacy 1,PC,2024,Fighting,Nintendo,2.89,71,7.2,14,49.99,T,Yes,Medium (1-5M),-0.1,2020
+G1173,Super Raid 1,Xbox,2022,Adventure,Take-Two,2.38,94,8.1,12,19.99,E10+,Yes,Medium (1-5M),1.3,2020
+G1174,Pixel Age 1,PC,2015,RPG,Capcom,1.93,87,9.4,47,39.99,M,Yes,Medium (1-5M),-0.7,2010
+G1175,Epic Warriors,Mobile,2025,Strategy,Valve,5.12,74,6.9,11,59.99,M,No,High (5-15M),0.5,2020
+G1176,Space Empire 2,Mobile,2017,Action,Epic Games,1.08,56,6.4,20,49.99,T,Yes,Medium (1-5M),-0.8,2010
+G1177,Eternal Souls 1,Xbox,2013,Shooter,Ubisoft,2.33,76,7.8,29,29.99,M,Yes,Medium (1-5M),-0.2,2010
+G1178,Dark Force 2,Xbox,2017,Shooter,Microsoft,3.09,79,8.3,11,14.99,T,Yes,Medium (1-5M),-0.4,2010
+G1179,Cyber Souls,Xbox,2016,Action,Sony Interactive,4.32,98,9.5,23,39.99,M,No,Medium (1-5M),0.3,2010
+G1180,Space Worlds 2,PlayStation,2020,Racing,Sega,42.38,66,6.3,15,19.99,E10+,No,Blockbuster (15M+),0.3,2020
+G1181,Rising Horizon 3,PC,2019,Adventure,Sega,2.8,86,8.8,33,29.99,E10+,Yes,Medium (1-5M),-0.2,2010
+G1182,Eternal Warriors 3,PC,2020,Simulation,Capcom,8.8,96,9.8,4,19.99,E10+,No,High (5-15M),-0.2,2020
+G1183,Shadow Chronicles,PC,2022,Fighting,Sony Interactive,1.34,63,4.8,10,29.99,E10+,No,Medium (1-5M),1.5,2020
+G1184,Ancient Raid 2,Nintendo Switch,2019,Adventure,Bandai Namco,9.93,98,9.7,67,59.99,E10+,No,High (5-15M),0.1,2010
+G1185,Epic Warriors 3,Nintendo Switch,2022,Adventure,Sony Interactive,5.77,49,4.1,28,39.99,E10+,No,High (5-15M),0.8,2020
+G1186,Ultra Tactics 1,Xbox,2016,Simulation,Ubisoft,2.7,68,6.8,20,9.99,E,No,Medium (1-5M),0.0,2010
+G1187,Shadow Rivals 2,PC,2021,Sports,Valve,2.46,47,3.7,10,49.99,M,Yes,Medium (1-5M),1.0,2020
+G1188,Super Warriors 2,PC,2025,Simulation,Nintendo,3.84,84,8.4,34,59.99,E10+,No,Medium (1-5M),0.0,2020
+G1189,Shadow Raid,Nintendo Switch,2016,Racing,Sega,12.28,66,5.6,10,14.99,M,Yes,High (5-15M),1.0,2010
+G1190,Mega Empire 1,PlayStation,2012,Shooter,Bandai Namco,18.8,65,6.0,53,29.99,T,No,Blockbuster (15M+),0.5,2010
+G1191,Epic Warriors 1,PC,2019,Strategy,Take-Two,14.95,51,4.5,33,49.99,T,No,High (5-15M),0.6,2010
+G1192,Rising Force 2,PlayStation,2018,Adventure,Microsoft,17.34,65,6.9,87,39.99,M,Yes,Blockbuster (15M+),-0.4,2010
+G1193,Mega Empire 2,PC,2024,Sports,Valve,0.78,55,4.1,24,59.99,T,Yes,Low (<1M),1.4,2020
+G1194,Storm Horizon 1,PC,2014,Strategy,Ubisoft,4.7,86,8.1,19,19.99,E10+,No,Medium (1-5M),0.5,2010
+G1195,Cyber Age 1,PlayStation,2013,Puzzle,Capcom,28.74,68,7.0,21,14.99,E10+,No,Blockbuster (15M+),-0.2,2010
+G1196,Dark Tactics,Xbox,2019,Adventure,Epic Games,3.67,83,7.5,52,39.99,T,No,Medium (1-5M),0.8,2010
+G1197,Ancient Dawn 3,Xbox,2025,Strategy,Capcom,0.65,98,9.4,28,19.99,E10+,Yes,Low (<1M),0.4,2020
+G1198,Shadow Tactics 3,Nintendo Switch,2020,Action,Take-Two,6.12,76,7.6,7,14.99,M,Yes,High (5-15M),0.0,2020
+G1199,Dragon Odyssey,PC,2018,RPG,Sony Interactive,3.41,85,7.1,14,9.99,E10+,Yes,Medium (1-5M),1.4,2010
+G1200,Legend Worlds 2,Xbox,2021,Fighting,Epic Games,1.81,78,6.9,19,49.99,T,No,Medium (1-5M),0.9,2020
